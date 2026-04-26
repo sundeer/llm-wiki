@@ -2,8 +2,8 @@
 title: Harry V. Jaffa
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf]
-updated: 2026-04-25
+sources: [Raw/Furious Minds.pdf, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf]
+updated: 2026-04-26
 ---
 
 # Harry V. Jaffa (1918–2015)
@@ -42,13 +42,27 @@ This makes the American founding exceptional — a nearly miraculous political a
 
 ---
 
+## The Bradford-Jaffa Debate
+
+Jaffa's most consequential intellectual battle was with [[M.E. Bradford]], the neo-Confederate literature professor at the University of Dallas who was the leading anti-Lincoln intellectual in the postwar conservative movement. Bradford called Jaffa's insistence on "equality as a conservative principle" the "Heresy of Equality" — the antonym of every legitimate conservative principle. "There is no man equal to any other," Bradford thundered, "except perhaps in the special, and politically untranslatable, understanding of the Deity." Bradford accused Jaffa of taking the Declaration's "all men are created equal" clause "in abstraction from its whole" and building a false constitutional theology on a misread phrase.
+
+Jaffa's counter: Bradford's constitutionalism had "no worship of the law whatsoever" — it was simply defense of Southern hierarchy dressed up as constitutionalism. Bradford's Lincoln was a caricature. The real Lincoln was a philosopher-statesman who completed the Founding.
+
+The debate ended institutionally in 1981 when Reagan — who had originally nominated Bradford to head the National Endowment for the Humanities — was forced to withdraw the nomination after neoconservatives (Kristol, Podhoretz) objected to Bradford's Lincoln attacks. William Bennett was appointed instead. Jaffa had won: the Declarationist tradition, not Bradford's neo-Confederatism, would be the constitutional framework of the Republican right.
+
+**Philip Jaffa** (Harry's son) told journalist Elisabeth Zerofsky in 2022 that the current Claremont Institute has "come to watch the Claremont Institute embody the very things that my father criticized in the conservative movement" — pointing to Christopher Caldwell's sympathetic *CRB* essay on Robert E. Lee as direct evidence of neo-Confederate backsliding.
+
+---
+
 ## Legacy in the New Right
 
-The Claremont Institute, founded in 1979 by Jaffa's students, is the institutional expression of his ideas. Through the Institute's fellowships, publications, and events, Jaffa's intellectual legacy shaped the generation of Claremonters who became the New Right's intellectual vanguard.
+The Claremont Institute, founded in 1979 by Jaffa's students (Larry Arnn, Peter Schramm, Tom Silver, Chris Flannery), is the institutional expression of his ideas. Through the Institute's fellowships, publications, and events, Jaffa's intellectual legacy shaped the generation of Claremonters who became the New Right's intellectual vanguard.
 
 [[Michael Anton]] — author of [[The Flight 93 Election]] — speaks glowingly of Jaffa. The Claremonters' emphasis on the founding, their catastrophism about American decline, and their willingness to embrace radical politics in the name of restoring first principles all trace back to Jaffa.
 
-**The irony:** Jaffa's Lincoln was an argument for the universal applicability of "all men are created equal" — an anti-racist argument. The younger Claremonters, influenced by Paleoconservatism, have moved toward positions Jaffa would have found repugnant.
+**The founding of the Institute** was driven by the belief that "the reigning authoritative, almost impregnable opinion was that nothing is by nature right or wrong" — and that this view was "radically inadequate." The Publius and Lincoln fellowships became the pipelines for the next generation of conservative elites.
+
+**The irony:** Jaffa's Lincoln was an argument for the universal applicability of "all men are created equal" — an anti-racist argument. The younger Claremonters, influenced by Paleoconservatism, have moved toward positions Jaffa would have found repugnant. His son Philip charges the institute with betrayal.
 
 ---
 
@@ -64,8 +78,9 @@ The Claremont Institute, founded in 1979 by Jaffa's students, is the institution
 
 - [[Leo Strauss]] — Jaffa's teacher
 - [[Michael Anton]] — Claremonter who cites Jaffa as a hero
-- [[Claremont Institute]] — founded by Jaffa's students
+- [[Claremont Institute]] — founded by Jaffa's students (Arnn, Schramm, Silver, Flannery)
 - [[West Coast Straussianism]] — the school Jaffa founded
 - [[The Claremonters]] — the movement Jaffa's work inspired
-- [[1964 GOP Convention]] — where Jaffa's lines were delivered
 - [[Declarationism]] — the Claremonter constitutional approach rooted in Jaffa's Lincoln reading
+- [[M.E. Bradford]] — Jaffa's chief conservative antagonist; the Bradford-Jaffa debate is foundational
+- [[Beyond Originalism]] — Kersch's academic genealogy of the Bradford-Jaffa debate

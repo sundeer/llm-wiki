@@ -2,7 +2,7 @@
 title: Costin Alamariu
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf]
+sources: [Raw/Furious Minds.pdf, Clippings/How Bronze Age Pervert Charmed the Far Right.md]
 updated: 2026-04-26
 ---
 
@@ -22,7 +22,15 @@ Field: "To look cool, you whitewash and elevate the genocidal writings of a mani
 
 ## Biography
 
-Born in Romania; immigrated to the United States as a child. Grew up in Newton, Massachusetts. Undergraduate degree from MIT. Received his doctoral degree in Straussian political philosophy from Yale University in 2015. His dissertation was titled "The Problem of Tyranny and Philosophy in the Thought of Plato and Nietzsche." He went to Emory University as a postdoc, but his contract was not renewed. Soon after his de facto departure from academia, he published *Bronze Age Mindset*.
+Born in Romania; family emigrated when Costin was approximately 10 years old. Grew up in **Newton, Massachusetts** — a large Jewish community; his family is Jewish, with relatives who were interned in Nazi concentration camps. His father worked in MIT's technology-licensing office. His older brother has no detectable accent and works as a geopolitical strategist at an investment research firm; Costin has kept his Romanian accent in both private life and in character.
+
+**Education:** Newton South High School; MIT undergraduate (mathematics major); brief career in investment banking in New York City; Yale doctoral program in political science, where his dissertation advisers were **Steven B. Smith** (a Straussian Leo Strauss scholar) and **Bryan Garsten** (political theorist, later famous for speaking at Michigan State about students being "captured" by illiberal alternatives). Received his Yale PhD in 2015. Dissertation: "The Problem of Tyranny and Philosophy in the Thought of Plato and Nietzsche."
+
+**Emory:** Hired for a postdoctoral fellowship in 2015. The arrangement was a disaster: he stopped teaching classes in person and attempted to teach over email; Emory discovered he had a medical condition making in-person teaching impossible. He refused to give the human resources department his home address. Fellowship not renewed.
+
+**After Emory:** Lived for some time in Brazil; more recently sighted in Japan, Spain, Hong Kong, and Iceland. His whereabouts are deliberately obscured.
+
+**Exposed:** Journalist Graeme Wood — who had known Alamariu personally since their Cambridge, Massachusetts era — identified him as BAP in an *Atlantic* profile (August 2023). Wood had known him from a mutual friend in the Newton South High School-era intellectual clique that favored Nietzsche and Rachmaninoff. Their correspondence lasted nearly two decades before Wood let it trail off over Alamariu's escalating slurs.
 
 ---
 
@@ -61,7 +69,7 @@ Field: "There is a parallel danger that comes with not cataloging BAP's 'petty t
 
 ## *The Atlantic* Profile and Going Mainstream (August 2023)
 
-In August 2023, Alamariu was the subject of an extended profile in *The Atlantic* by staff writer **Graeme Wood**, who had known BAP personally for a long time. The profile named and identified BAP as Costin Alamariu. It included comments from his Yale advisors, **Bryan Garsten** and **Steven B. Smith**.
+In August 2023, Alamariu was the subject of an extended profile in *The Atlantic* by staff writer **Graeme Wood** (see [[How Bronze Age Pervert Charmed the Far Right]]), who had known BAP personally since the early Cambridge years. The profile named and identified BAP as Costin Alamariu — the identity he had concealed for nearly a decade. It included comments from his Yale advisors, **Bryan Garsten** and **Steven B. Smith**.
 
 Smith — the head of Alamariu's dissertation committee — said he was "shocked that his family would escape Ceaușescu's Romania only for Costin to undermine the principles of [American] democracy. I view that as a shameful act of betrayal." Smith said he had "made his disgust known" but ultimately signed off on Alamariu's work in 2015 because he "was his dissertation adviser, not his censor." Field: this is "admirable." It is also "a perfect demonstration of the natural vulnerabilities (and nobility) of liberalism": other political orders imprison, exile, or kill their ideological opponents; the liberal "regime" gives them tassels, velvet robes, and profiles in *The Atlantic*.
 

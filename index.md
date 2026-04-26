@@ -26,6 +26,11 @@
 - [[Glenn Ellmers]] — Claremont; "The People Are Not the Country" (2021); friend/enemy applied to liberal Americans
 - [[Harry V. Jaffa]] — Claremont's founder; Lincoln scholar; two Jaffas; equality vs. natural right debate
 - [[Harvey Mansfield]] — Harvard Government 60 years; East Coast Straussian; Alamariu's dissertation committee; AEI fête July 2022
+- [[Joshua Tait]] — conservative intellectual historian; Substack; "Conservatives or Counterrevolutionaries?" (2024) [stub]
+- [[M.E. Bradford]] — neo-Confederate intellectual; anti-Lincoln; Bradford-Jaffa debate; Reagan's failed NEH nominee (1981); University of Dallas
+- [[Russell Kirk]] — *The Conservative Mind* (1953); Burkean prescriptivism; touchstone vs. active shaper; gap between Kirk's conservatism and movement counterrevolution
+- [[Ryan Williams]] — Claremont Institute president since ~2017; "punk-rock CRB"; American Mind; New Right pipeline architect
+- [[Thomas Klingenstein]] — Claremont board chair; New York investment manager; ~$2.5M donor; "woke communism"; "in war you don't negotiate until you've won"
 - [[JD Vance]] — *Hillbilly Elegy*; VP (2025–); "childless cat ladies"; Springfield OH "noble lie"; most prominent postliberal in office
 - [[Mike Johnson]] — House Speaker (Oct 2023); Southern Baptist; CFE + NAR theology; World Prayer Network call
 - [[John Eastman]] — Claremont; Jaffa student; architect of January 6 legal memo; disbarred
@@ -77,13 +82,18 @@
 - [[Manosphere]] — masculinity-crisis online ecosystem; Tucker Carlson's "End of Men"; Raw Egg Nationalist, BAP, L0m3z
 - [[Populism]] — the democratic claim the New Right invokes while pursuing elite-led transformation
 - [[West Coast Straussianism]] — Jaffa's branch; Lincoln, equality, natural right; against East Coast Strauss's esotericism
+- [[Counterrevolution]] — Tait's thesis: the American Conservative Movement has always been functionally counterrevolutionary; catastrophism as the mechanism; paleocons made it explicit
 
 ---
 
 ## Texts
 
 - [[1776 Commission Report]] — Trump admin Jan 2021; Arnn/Swain co-chairs; no historians; Calhoun comparison; Biden dissolved day one
+- [[Beyond Originalism]] — Ken Kersch (2011, *Maryland Law Review*); academic genealogy of Declarationism; Bradford-Jaffa debate; two functions of conservative Declarationism
+- [[Conservatives or Counterrevolutionaries?]] — Joshua Tait (2024, Substack); conservative vs. counterrevolutionary distinction; Kirk, Oakeshott, Bradford, Francis; Trump as ideological cipher
 - [[Furious Minds]] — Laura K. Field (2025, Princeton UP); anchor text for this wiki
+- [[How Bronze Age Pervert Charmed the Far Right]] — Graeme Wood (*The Atlantic*, 2023); Alamariu biography; BAPist government infiltration; "BAPism is winning"
+- [[How the Claremont Institute Became a Nerve Center]] — Elisabeth Zerofsky (*NYT Magazine*, 2022); institutional history; Klingenstein; Ryan Williams; Clarence Thomas connection; budget ~$9M
 - [[Integration from Within]] — Vermeule 2018; infiltrate administrative state; reject Benedict Option; "sear the liberal faith"
 - [[On Campus Trump Fans Safe Spaces]] — Field's original research article; conservative campus culture
 - [[Regime Change]] — Deneen 2023; Aristopopulism; "Machiavellian means"; Vance at launch; nothing on Jan 6
