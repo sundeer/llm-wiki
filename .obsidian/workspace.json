@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "58265513e79d65a6",
+        "id": "9beacd22a81cb0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "8762047028b59a90",
+            "id": "e955b0857c38a738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/How Bronze Age Pervert Charmed the Far Right.md",
-                "mode": "source",
+                "file": "wiki/Overview.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "How Bronze Age Pervert Charmed the Far Right"
+              "title": "Overview"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 578.5004348754883
+    "width": 970.5
   },
   "right": {
     "id": "28839bce51c21c60",
@@ -195,8 +195,13 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8762047028b59a90",
+  "active": "e955b0857c38a738",
   "lastOpenFiles": [
+    "MAGA New Right.md",
+    "Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md",
+    "Clippings/Untitled.md",
+    "Clippings/Conservatives or Counterrevolutionaries?.md",
+    "Clippings/How Bronze Age Pervert Charmed the Far Right.md",
     "wiki/Thinkers/Joshua Tait.md",
     "wiki/Texts/Beyond Originalism.md",
     "wiki/Texts/How the Claremont Institute Became a Nerve Center.md",
@@ -207,17 +212,12 @@
     "wiki/Thinkers/Thomas Klingenstein.md",
     "wiki/Thinkers/M.E. Bradford.md",
     "wiki/Thinkers/Russell Kirk.md",
-    "Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md",
-    "Clippings/How Bronze Age Pervert Charmed the Far Right.md",
-    "Clippings/Conservatives or Counterrevolutionaries?.md",
     "raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf",
-    "Clippings/Untitled.md",
     "wiki/Texts/Integration from Within.md",
     "index.md",
     "log.md",
     "Clippings/The Flight 93 Election.md",
     "wiki/Events/2016 Election.md",
-    "MAGA New Right.md",
     "Esotericism.md",
     "CLAUDE.md",
     "Hillsdale College.md",

@@ -141,7 +141,7 @@ Pages created: ...
 Pages updated: ...
 ```
 
-Operations: `ingest`, `query`, `lint`
+Operations: `ingest`, `query`, `synthesis`, `lint`
 
 Parseable with: `grep "^## \[" log.md | tail -10`
 
@@ -157,6 +157,7 @@ When the user adds a new source to `Clippings/` or `Raw/`:
 4. Create or update all Thinker, Movement, Concept, Event, Institution pages touched by the source
 5. Note explicitly where the source contradicts or revises existing wiki content
 6. Update `index.md` and append to `log.md`
+7. **Assess whether the source materially revises the Overview thesis.** Update `Overview.md` only if the source: (a) changes the arc's argument in a section that already exists, (b) introduces a major new thread the current sections don't account for, or (c) surfaces a significant contradiction with the existing synthesis. Most ingests will not require an Overview update — absorb the detail into individual pages and leave the Overview alone.
 
 A single source typically touches 5–15 wiki pages.
 
@@ -166,6 +167,13 @@ When the user asks a question:
 2. Read the relevant pages
 3. Synthesize an answer with `[[wikilink]]` citations
 4. Offer to file the answer as a new wiki page if it represents lasting synthesis
+
+### Synthesis
+When a query answer, discussion, or ingest produces a new or revised understanding of the arc:
+1. Update `Overview.md` — revise the relevant section(s) of the narrative, or add a new section if a genuinely new thread emerges; do not append; rewrite the section to absorb the new insight
+2. Update any individual pages whose cross-references or arguments need adjustment
+3. Append to `log.md` with operation `synthesis`
+4. The Overview's seven-section structure is the stable skeleton — new material should be absorbed into existing sections unless it truly requires a new one
 
 ### Lint
 Periodic health check (ask the LLM to run this explicitly):
