@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31866326699f321a",
+        "id": "58265513e79d65a6",
         "type": "tabs",
         "children": [
           {
-            "id": "521283658c0539a7",
+            "id": "8762047028b59a90",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -69,12 +69,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "72951b76ac001d25",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 578.5004348754883
   },
   "right": {
     "id": "28839bce51c21c60",
@@ -90,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/Texts/Integration from Within.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +111,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Integration from Within"
             }
           },
           {
@@ -108,11 +120,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/Texts/Integration from Within.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Integration from Within"
             }
           },
           {
@@ -150,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/Texts/Integration from Within.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Integration from Within"
             }
           }
         ]
@@ -173,9 +187,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "521283658c0539a7",
-  "lastOpenFiles": []
+  "active": "8762047028b59a90",
+  "lastOpenFiles": [
+    "Clippings/Untitled.md",
+    "wiki/Texts/Integration from Within.md",
+    "index.md",
+    "log.md",
+    "Clippings/The Flight 93 Election.md",
+    "wiki/Events/2016 Election.md",
+    "MAGA New Right.md",
+    "Esotericism.md",
+    "CLAUDE.md",
+    "Hillsdale College.md",
+    "wiki/Overview.md",
+    "wiki/Texts/Furious Minds.md",
+    "wiki/Thinkers/Harvey Mansfield.md",
+    "wiki/Thinkers/Mike Johnson.md",
+    "wiki/Movements/Christian Nationalism.md",
+    "wiki/Institutions/IM-1776.md",
+    "wiki/Concepts/Manosphere.md",
+    "wiki/Institutions/Postliberal Order.md",
+    "wiki/Thinkers/Tucker Carlson.md",
+    "wiki/Texts/Tyranny Inc.md",
+    "wiki/Texts/Regime Change.md",
+    "wiki/Thinkers/Josh Hammer.md",
+    "wiki/Institutions/Intercollegiate Studies Institute.md",
+    "wiki/Thinkers/Robert P. George.md",
+    "wiki/Thinkers/Nathan Pinkoski.md",
+    "wiki/Institutions/Compact.md",
+    "raw/Furious Minds.pdf",
+    "wiki/Institutions",
+    "wiki/Events",
+    "wiki/Texts",
+    "wiki/Concepts",
+    "wiki/Movements",
+    "wiki/Thinkers"
+  ]
 }

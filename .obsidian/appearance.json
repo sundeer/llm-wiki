@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "obsidian",
+  "cssTheme": "",
+  "baseFontSize": 16,
+  "nativeMenus": true,
+  "showRibbon": false,
+  "showViewHeader": true
+}

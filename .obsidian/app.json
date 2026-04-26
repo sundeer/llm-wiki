@@ -1,1 +1,8 @@
-{}
+{
+  "livePreview": false,
+  "readableLineLength": true,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": false,
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden"
+}
