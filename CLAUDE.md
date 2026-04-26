@@ -19,6 +19,7 @@ llm-wiki/
 ├── Raw/               ← raw sources: PDFs, transcripts, other files (immutable)
 └── Wiki/              ← LLM-generated wiki pages
     ├── Overview.md
+    ├── Inbox/         ← uncategorized stubs (Obsidian default landing zone)
     ├── Thinkers/
     ├── Movements/
     ├── Concepts/
@@ -95,6 +96,18 @@ updated: YYYY-MM-DD
 - Always link to existing pages when mentioning known entities
 - If a referenced entity has no page yet, create a stub with frontmatter and a one-line description
 - Stubs are flagged with `tags: [stub]`
+
+### Inbox (`Wiki/Inbox/`)
+
+Obsidian is configured to create new files in `Wiki/Inbox/` when the user clicks an unresolved wikilink in the editor. Files that land here are **uncategorized placeholders** — they have no frontmatter and no content.
+
+During a lint pass, the LLM must:
+1. `find Wiki/Inbox/ -name "*.md"` to surface any new arrivals
+2. For each file: determine its correct type (Thinker, Concept, Institution, etc.)
+3. Move it to the right subdirectory and add frontmatter + a one-line stub description
+4. Add it to `index.md`
+
+Do not leave files in `Wiki/Inbox/` — it is a transit zone, not a permanent home.
 
 ---
 
@@ -177,6 +190,7 @@ When a query answer, discussion, or ingest produces a new or revised understandi
 
 ### Lint
 Periodic health check (ask the LLM to run this explicitly):
+- **Check `Wiki/Inbox/`** for uncategorized files and resolve them first (see Cross-Referencing above)
 - Flag contradictions between pages
 - Flag stubs needing expansion
 - Flag orphan pages (no inbound links)

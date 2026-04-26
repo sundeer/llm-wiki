@@ -4,5 +4,7 @@
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
   "showInlineTitle": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "wiki"
 }
