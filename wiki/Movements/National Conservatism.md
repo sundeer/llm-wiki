@@ -44,7 +44,7 @@ JD Vance was a speaker at three of the four US NatCon conferences between 2019 a
 - [[Josh Hammer]] — University of Chicago JD; media personality; proponent of "Common Good Originalism"
 - [[Kevin Roberts]] — President of the Heritage Foundation; architect of Project 2025
 - [[Christopher Rufo]] — activist and Manhattan Institute employee; culture war strategist
-- [[Chris DeMuth]] — former president of the American Enterprise Institute
+- [[Christopher DeMuth]] — former president of the American Enterprise Institute
 - Josh Hawley, Marco Rubio, Tom Cotton — politicians who have embraced the movement
 
 ---

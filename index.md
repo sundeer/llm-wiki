@@ -27,10 +27,12 @@
 - [[Harry V. Jaffa]] — Claremont's founder; Lincoln scholar; two Jaffas; equality vs. natural right debate
 - [[Harvey Mansfield]] — Harvard Government 60 years; East Coast Straussian; Alamariu's dissertation committee; AEI fête July 2022
 - [[Joshua Tait]] — conservative intellectual historian; Substack; "Conservatives or Counterrevolutionaries?" (2024) [stub]
+- [[Laura K. Field]] — *Furious Minds* (2025); Niskanen Center; anchor author of this wiki [stub]
 - [[M.E. Bradford]] — neo-Confederate intellectual; anti-Lincoln; Bradford-Jaffa debate; Reagan's failed NEH nominee (1981); University of Dallas
+- [[Rod Dreher]] — *The Benedict Option*; "NETTR" opponent; relocated to Hungary 2022 [stub]
 - [[Russell Kirk]] — *The Conservative Mind* (1953); Burkean prescriptivism; touchstone vs. active shaper; gap between Kirk's conservatism and movement counterrevolution
 - [[Ryan Williams]] — Claremont Institute president since ~2017; "punk-rock CRB"; American Mind; New Right pipeline architect
-- [[Sam Francis]] — paleocon theorist (1947–2005); "Middle American Radicals"; "Beautiful Losers" (1993); Chronicles editor; direct Trump precursor [stub]
+- [[Sam Francis]] — paleocon theorist (1947–2005); "Middle American Radicals"; "Beautiful Losers" (1993); Chronicles editor; direct Trump precursor
 - [[Thomas Klingenstein]] — Claremont board chair; New York investment manager; ~$2.5M donor; "woke communism"; "in war you don't negotiate until you've won"
 - [[JD Vance]] — *Hillbilly Elegy*; VP (2025–); "childless cat ladies"; Springfield OH "noble lie"; most prominent postliberal in office
 - [[Mike Johnson]] — House Speaker (Oct 2023); Southern Baptist; CFE + NAR theology; World Prayer Network call
@@ -44,9 +46,9 @@
 - [[Michael Anton]] — *The Flight 93 Election*; NSC official; Claremont; Italian suits
 - [[Nathan Pinkoski]] — Oxford PhD; James Madison Program postdoc; NatCon 3 Schmitt/Maurras/Camp of the Saints talk
 - [[Oren Cass]] — American Compass; supply-side economics critic; worker-centered economics
-- [[Pat Buchanan]] — 1992/1996 "Culture War" campaigns; paleoconservative godfather; Trumpism's direct precursor [stub]
+- [[Pat Buchanan]] — 1992/1996 "Culture War" campaigns; paleoconservative godfather; Trumpism's direct precursor
 - [[Patrick Deneen]] — Notre Dame; *Why Liberalism Failed*; *Regime Change*; "We have to win"; Budapest dispatch
-- [[Paul Gottfried]] — Elizabethtown College; coined "alternative right" (2008); H.L. Mencken Club; paleocon patriarch [stub]
+- [[Paul Gottfried]] — Elizabethtown College; coined "alternative right" (2008); H.L. Mencken Club; paleocon patriarch
 - [[Peter Thiel]] — PayPal; Palantir; Vance patron; Yarvin connection; anti-democratic libertarian to New Right
 - [[R.R. Reno]] — *First Things* editor; "strong gods" thesis; supported February Statement 2020
 - [[Richard Spencer]] — white nationalist; "alt-right"; NPI; Charlottesville; separated from mainstream New Right
@@ -85,7 +87,8 @@
 - [[MAGA New Right]] — Field's term for the full coalition; three camps plus Hard Right underbelly; subject of this wiki
 - [[Manosphere]] — masculinity-crisis online ecosystem; Tucker Carlson's "End of Men"; Raw Egg Nationalist, BAP, L0m3z
 - [[Populism]] — the democratic claim the New Right invokes while pursuing elite-led transformation
-- [[The Cathedral]] — Yarvin's concept; informal network of universities, media, and NGOs enforcing progressive orthodoxy [stub]
+- [[The Cathedral]] — Yarvin's concept; informal network of universities, media, and NGOs enforcing progressive orthodoxy
+- [[Schedule F]] — executive reclassification of civil servants as at-will employees; Project 2025's most structurally significant mechanism [stub]
 - [[West Coast Straussianism]] — Jaffa's branch; Lincoln, equality, natural right; against East Coast Strauss's esotericism
 - [[Counterrevolution]] — Tait's thesis: the American Conservative Movement has always been functionally counterrevolutionary; catastrophism as the mechanism; paleocons made it explicit
 
@@ -97,6 +100,7 @@
 - [[Beyond Originalism]] — Ken Kersch (2011, *Maryland Law Review*); academic genealogy of Declarationism; Bradford-Jaffa debate; two functions of conservative Declarationism
 - [[Conservatives or Counterrevolutionaries?]] — Joshua Tait (2024, Substack); conservative vs. counterrevolutionary distinction; Kirk, Oakeshott, Bradford, Francis; Trump as ideological cipher
 - [[Furious Minds]] — Laura K. Field (2025, Princeton UP); anchor text for this wiki
+- [[The Virtue of Nationalism]] — Yoram Hazony (2018); foundational NatCon text; launched Edmund Burke Foundation [stub]
 - [[How Bronze Age Pervert Charmed the Far Right]] — Graeme Wood (*The Atlantic*, 2023); Alamariu biography; BAPist government infiltration; "BAPism is winning"
 - [[How the Claremont Institute Became a Nerve Center]] — Elisabeth Zerofsky (*NYT Magazine*, 2022); institutional history; Klingenstein; Ryan Williams; Clarence Thomas connection; budget ~$9M
 - [[Integration from Within]] — Vermeule 2018; infiltrate administrative state; reject Benedict Option; "sear the liberal faith"
@@ -112,6 +116,7 @@
 ## Events
 
 - [[2016 Election]] — Trump's victory; the event that proved the New Right's catastrophism and catalyzed the movement
+- [[2020 Election]] — Biden defeats Trump; Trump refuses to concede; "Big Lie"; leads to January 6 [stub]
 - [[Charlottesville 2017]] — Unite the Right rally; Hard Right violence; forced mainstream New Right to distance from white nationalism
 - [[January 6 2021]] — insurrection at US Capitol; downstream of Flight 93 logic + Schmittian emergency framing
 
@@ -120,7 +125,9 @@
 ## Institutions
 
 - [[American Affairs]] — Krein/Pappin journal 2017; postliberal economics and theory; "Requiem for the Realignment" (Pappin, 2023)
+- [[American Greatness]] — online magazine successor to Journal of American Greatness; Thiel-funded; Claremont-adjacent [stub]
 - [[Claremont Institute]] — Jaffa's think tank; *American Mind*; *Claremont Review of Books*; Jan 6 legal theory
+- [[Claremont Review of Books]] — Kesler's flagship CRB journal; published The Flight 93 Election; intellectual face of Claremonters [stub]
 - [[Compact]] — Ahmari/Schmitz/Aponte 2022; left-right postliberal; Ukraine skepticism; "Away from the Abyss"
 - [[First Things]] — R.R. Reno's journal; Catholic conservative; Vermeule conversion interview; "strong gods"
 - [[Heritage Foundation]] — Roberts president since 2021; Project 2025; Schedule F; CPI ecosystem
@@ -129,4 +136,5 @@
 - [[IM-1776]] — Hard Right magazine founded 2020; Granza editor (Italy→Hungary); Rufo manifesto Jan 2024; first post reviewed BAM
 - [[Journal of American Greatness]] — anonymous proto-Trumpist blog 2016; Pappin as "Manlius Capitolinus"
 - [[Postliberal Order]] — Substack founded Feb 2022; Vermeule/Deneen/Pappin/Pecknold; coincided with CGC publication
-- [[Project 2025]] — Heritage Foundation's 920-page governing blueprint (2023); Schedule F; ~80 partner orgs including Claremont [stub]
+- [[Edmund Burke Foundation]] — Hazony's NatCon organizing institution; David Brog president; DeMuth conference chair [stub]
+- [[Project 2025]] — Heritage Foundation's 920-page governing blueprint (2023); Schedule F; ~80 partner orgs including Claremont

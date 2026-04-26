@@ -44,3 +44,13 @@ Pages updated: National Conservatism, Steve Bannon, Kevin Roberts, Yoram Hazony,
 ## [2026-04-26] synthesis | Overview.md master synthesis written
 Wrote the Overview.md master synthesis page tracing the full historical arc from Kirk's Burkean conservatism through the Bradford-Jaffa constitutional civil war to the MAGA synthesis. Integrates the Tait (counterrevolution), Kersch (Declarationism genealogy), and Field (Furious Minds) analytical frames into a seven-section narrative. Key thesis: the MAGA New Right inherited Jaffa's constitutional language while pursuing Bradford's political goals — a specific, traceable incoherence.
 Pages updated: Overview.md
+
+## [2026-04-26] lint | Second full health check
+Inbox: empty. Orphans: none. Stubs resolved and broken links fixed from the previous lint's flagged list.
+**Broken links fixed:** [[Chris DeMuth]] → [[Christopher DeMuth]] (National Conservatism.md); [[Harvey C. Mansfield]] → [[Harvey Mansfield]] (Harry V. Jaffa.md, Leo Strauss.md); [[Intercollegiate Studies Institute|Edmund Burke Foundation]] → [[Edmund Burke Foundation]] (Christian Nationalism.md — these are separate organizations).
+**File rename:** "Tyranny Inc.md" → "Tyranny, Inc.md" (filename now matches frontmatter title and all wikilinks).
+**De-stubbed (pages were fully developed):** Pat Buchanan, Sam Francis, Paul Gottfried, The Cathedral, Project 2025.
+**New pages created:** Edmund Burke Foundation (institution), The Virtue of Nationalism (text), Laura K. Field (thinker), Claremont Review of Books (institution), American Greatness (institution), Rod Dreher (thinker), Schedule F (concept), 2020 Election (event).
+**Remaining broken links (low-priority, flagged for future expansion):** [[David Brog]], [[Clarence Thomas]], [[Jared Taylor]], [[Jim DeMint]], [[Matthew Spalding]], [[Witherspoon Institute]], [[Great Replacement Theory]], [[Bostock v. Clayton County]].
+Pages created: Edmund Burke Foundation, The Virtue of Nationalism, Laura K. Field, Claremont Review of Books, American Greatness, Rod Dreher, Schedule F, 2020 Election
+Pages updated: National Conservatism, Harry V. Jaffa, Leo Strauss, Christian Nationalism, Pat Buchanan, Sam Francis, Paul Gottfried, The Cathedral, Project 2025, index.md

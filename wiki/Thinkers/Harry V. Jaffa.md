@@ -14,7 +14,7 @@ updated: 2026-04-26
 
 ## Biography
 
-Originally from New York. Earned his doctorate from the New School of Social Research in 1951, where he was one of [[Leo Strauss]]'s first graduate students. Also studied with Harvey Mansfield Sr. (father of [[Harvey C. Mansfield]]) as an undergraduate at Columbia University.
+Originally from New York. Earned his doctorate from the New School of Social Research in 1951, where he was one of [[Leo Strauss]]'s first graduate students. Also studied with Harvey Mansfield Sr. (father of [[Harvey Mansfield]]) as an undergraduate at Columbia University.
 
 After graduating, Jaffa spent over a decade at Ohio State University, then moved to California in 1964 to join the faculty at Claremont Men's College, where he remained until his retirement in 1989. He then joined the [[Claremont Institute]] as a senior fellow, where he remained until his death in 2015.
 

@@ -36,7 +36,7 @@ CFE's modern political form grew out of the Cold War synthesis: Goldwater mobili
 
 ### Hillsdale's CFE Scholars
 
-**Clifford Humphrey** — Hillsdale PhD; director of [[Intercollegiate Studies Institute|Edmund Burke Foundation]]; later appointed EVP of the Florida College System by DeSantis. His CFE scholarship situates him at the intersection of Hillsdale, NatCon, and Florida education policy.
+**Clifford Humphrey** — Hillsdale PhD; director of [[Edmund Burke Foundation]]; later appointed EVP of the Florida College System by DeSantis. His CFE scholarship situates him at the intersection of Hillsdale, NatCon, and Florida education policy.
 
 **Ben Crenshaw** — Hillsdale PhD candidate; presented at an ISI/Claremont conference in Fort Lauderdale (February 24, 2023, final day) on CFE. His talk drew on typological and theological readings of the founding documents to argue for Christian constitutional interpretation.
 

@@ -65,7 +65,7 @@ Strauss's esotericism also bears a troubling resemblance to the political "noble
 
 - [[Harry V. Jaffa]] — West Coast Straussian; Strauss's most politically influential student
 - [[Allan Bloom]] — Strauss's most culturally influential student; *The Closing of the American Mind* (1987)
-- [[Harvey C. Mansfield]] — Straussian; Harvard professor
+- [[Harvey Mansfield]] — Straussian; Harvard professor
 - [[Michael Anton]] — Claremonter who uses Straussian esotericism (pseudonymous writing)
 - [[The Claremonters]] — movement rooted in West Coast Straussianism
 - [[West Coast Straussianism]] — the Claremonter philosophical tradition

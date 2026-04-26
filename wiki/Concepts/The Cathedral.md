@@ -1,7 +1,7 @@
 ---
 title: The Cathedral
 type: concept
-tags: [stub]
+tags: []
 sources: [Raw/Furious Minds.pdf]
 updated: 2026-04-26
 ---

@@ -1,7 +1,7 @@
 ---
 title: Sam Francis
 type: thinker
-tags: [stub]
+tags: []
 sources: [Raw/Furious Minds.pdf, Clippings/Conservatives or Counterrevolutionaries?.md]
 updated: 2026-04-26
 ---
