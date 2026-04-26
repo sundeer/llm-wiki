@@ -31,7 +31,7 @@ National Conservatism is distinct in having formal institutional infrastructure:
 - **Edmund Burke Foundation** — founded by [[Yoram Hazony]]; organizes NatCon conferences
 - Regular conferences in the United States and abroad (four NatCon conferences in the US between 2019 and 2024)
 - [[First Things]] magazine — [[R.R. Reno]]'s journal; important NatCon venue
-- [[Heritage Foundation]] — the flagship conservative think tank, which under [[Kevin D. Roberts]] moved sharply toward National Conservatism; co-author of Project 2025
+- [[Heritage Foundation]] — the flagship conservative think tank, which under [[Kevin Roberts]] moved sharply toward National Conservatism; co-author of Project 2025
 
 JD Vance was a speaker at three of the four US NatCon conferences between 2019 and 2024. The Claremonters and NatCons significantly overlap; Thomas Klingenstein is both a Claremonter and a major donor to National Conservatism.
 
@@ -42,7 +42,7 @@ JD Vance was a speaker at three of the four US NatCon conferences between 2019 a
 - [[Yoram Hazony]] — Israeli-American political organizer; *The Virtue of Nationalism* (2018); founder of the Edmund Burke Foundation
 - [[R.R. Reno]] — Yale PhD in religious studies; editor of *First Things*; author of *The Return of the Strong Gods* (2019)
 - [[Josh Hammer]] — University of Chicago JD; media personality; proponent of "Common Good Originalism"
-- [[Kevin D. Roberts]] — President of the Heritage Foundation; architect of Project 2025
+- [[Kevin Roberts]] — President of the Heritage Foundation; architect of Project 2025
 - [[Christopher Rufo]] — activist and Manhattan Institute employee; culture war strategist
 - [[Chris DeMuth]] — former president of the American Enterprise Institute
 - Josh Hawley, Marco Rubio, Tom Cotton — politicians who have embraced the movement
@@ -65,7 +65,7 @@ National Conservatism is a "big tent" that overlaps with both the [[The Claremon
 
 ## NatCon Conferences: The Tent and Its Limits
 
-**NatCon 1** (Washington DC, July 2019): Opening day coincided with Trump's "go back" tweets about the Squad. Conference chairman [[Christopher DeMuth]] (AEI president 1986–2008) gave the movement mainstream credibility. [[Peter Thiel]] delivered the keynote ("Star Trek Computer Is Not Enough"). Key tension: culture warriors vs. economic populists. Julius Krein and Oren Cass made the strongest economic cases; a resolution for industrial policy passed 99-55. Tucker Carlson straddled both camps. JD Vance gave "Getting Beyond Libertarianism." Culminating speech: [[Josh Hawley]], youngest senator — standing ovation.
+**NatCon 1** (Washington DC, July 2019): Opening day coincided with Trump's "go back" tweets about the Squad. Conference chairman [[Christopher DeMuth]] (AEI president 1986–2008) gave the movement mainstream credibility. [[Peter Thiel]] delivered the keynote ("Star Trek Computer Is Not Enough"). Key tension: culture warriors vs. economic [[Populism|populists]]. Julius Krein and Oren Cass made the strongest economic cases; a resolution for industrial policy passed 99-55. Tucker Carlson straddled both camps. JD Vance gave "Getting Beyond Libertarianism." Culminating speech: [[Josh Hawley]], youngest senator — standing ovation.
 
 **The Brimelow problem**: Hazony rejected Peter Brimelow (founder of white nationalist VDARE) from NatCon 1. Brimelow wrote an essay expressing shock, noting Hazony's positions "sounds exactly like positions we have argued for years." Despite the exclusion, law professor Amy Wax made racially charged claims in a speech not posted to NatCon's YouTube channel. Hazony defended Wax; she did not return to subsequent NatCon speaker lists. Paul Gottfried, at his 2019 HL Mencken Club conference, mocked NatCon as organized by "a Zionist philanthropist" and praised Wax for "said what speakers were not supposed to mention."
 

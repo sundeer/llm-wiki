@@ -42,7 +42,7 @@ Key elements:
 
 ## Field's Critique
 
-*Regime Change* was "slightly fantastical in its Manichean embrace of hard populist dualities." Deneen's claim that ordinary people "instinctively seek stability, order, continuity, and a sense of gratitude for the past and obligation toward the future" as "a conservatism that conserves" elides the fact that many liberal social policies — abortion rights, birth control, marriage equality, no-fault divorce — are significantly more popular with the general public than their conservative alternatives.
+*Regime Change* was "slightly fantastical in its Manichean embrace of hard [[Populism|populist]] dualities." Deneen's claim that ordinary people "instinctively seek stability, order, continuity, and a sense of gratitude for the past and obligation toward the future" as "a conservatism that conserves" elides the fact that many liberal social policies — abortion rights, birth control, marriage equality, no-fault divorce — are significantly more popular with the general public than their conservative alternatives.
 
 Becca Rothfeld's review: "This facile taxonomy is not class analysis; it is astrology for the bow-tie set."
 

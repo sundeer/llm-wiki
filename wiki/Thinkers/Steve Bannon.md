@@ -37,7 +37,7 @@ This synthesis places Bannon in the orbit of the [[Hard Right]]'s more esoteric 
 Bannon's primary contributions to the New Right are strategic and organizational:
 - **Breitbart News**: transformed it from a center-right blog into the internet's most influential MAGA media outlet
 - **The "administrative deconstruction" doctrine**: Bannon's stated goal in 2017 was "deconstruction of the administrative state" — a strategic complement to Vermeule's [[Integration from Within]]
-- **The populist electoral strategy**: Bannon understood before almost anyone else that working-class white voters without college degrees were a winnable coalition for economic nationalism + cultural grievance
+- **The [[Populism|populist]] electoral strategy**: Bannon understood before almost anyone else that working-class white voters without college degrees were a winnable coalition for economic nationalism + cultural grievance
 - **International network**: Bannon worked with European populist-nationalist parties (Front National, Lega Nord, AfD) to build a global nationalist movement
 
 ---

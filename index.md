@@ -30,6 +30,7 @@
 - [[M.E. Bradford]] — neo-Confederate intellectual; anti-Lincoln; Bradford-Jaffa debate; Reagan's failed NEH nominee (1981); University of Dallas
 - [[Russell Kirk]] — *The Conservative Mind* (1953); Burkean prescriptivism; touchstone vs. active shaper; gap between Kirk's conservatism and movement counterrevolution
 - [[Ryan Williams]] — Claremont Institute president since ~2017; "punk-rock CRB"; American Mind; New Right pipeline architect
+- [[Sam Francis]] — paleocon theorist (1947–2005); "Middle American Radicals"; "Beautiful Losers" (1993); Chronicles editor; direct Trump precursor [stub]
 - [[Thomas Klingenstein]] — Claremont board chair; New York investment manager; ~$2.5M donor; "woke communism"; "in war you don't negotiate until you've won"
 - [[JD Vance]] — *Hillbilly Elegy*; VP (2025–); "childless cat ladies"; Springfield OH "noble lie"; most prominent postliberal in office
 - [[Mike Johnson]] — House Speaker (Oct 2023); Southern Baptist; CFE + NAR theology; World Prayer Network call
@@ -43,7 +44,9 @@
 - [[Michael Anton]] — *The Flight 93 Election*; NSC official; Claremont; Italian suits
 - [[Nathan Pinkoski]] — Oxford PhD; James Madison Program postdoc; NatCon 3 Schmitt/Maurras/Camp of the Saints talk
 - [[Oren Cass]] — American Compass; supply-side economics critic; worker-centered economics
+- [[Pat Buchanan]] — 1992/1996 "Culture War" campaigns; paleoconservative godfather; Trumpism's direct precursor [stub]
 - [[Patrick Deneen]] — Notre Dame; *Why Liberalism Failed*; *Regime Change*; "We have to win"; Budapest dispatch
+- [[Paul Gottfried]] — Elizabethtown College; coined "alternative right" (2008); H.L. Mencken Club; paleocon patriarch [stub]
 - [[Peter Thiel]] — PayPal; Palantir; Vance patron; Yarvin connection; anti-democratic libertarian to New Right
 - [[R.R. Reno]] — *First Things* editor; "strong gods" thesis; supported February Statement 2020
 - [[Richard Spencer]] — white nationalist; "alt-right"; NPI; Charlottesville; separated from mainstream New Right
@@ -79,8 +82,10 @@
 - [[Esotericism]] — Straussian doctrine; philosophers write in code to protect from persecution; shapes New Right's double-speak
 - [[Ideas First]] — NatCon theory of political change; intellectuals lead, movement follows
 - [[Longmarcherism]] — New Right's claim that leftists executed a deliberate march through institutions; Rufo's *America's Cultural Revolution*
+- [[MAGA New Right]] — Field's term for the full coalition; three camps plus Hard Right underbelly; subject of this wiki
 - [[Manosphere]] — masculinity-crisis online ecosystem; Tucker Carlson's "End of Men"; Raw Egg Nationalist, BAP, L0m3z
 - [[Populism]] — the democratic claim the New Right invokes while pursuing elite-led transformation
+- [[The Cathedral]] — Yarvin's concept; informal network of universities, media, and NGOs enforcing progressive orthodoxy [stub]
 - [[West Coast Straussianism]] — Jaffa's branch; Lincoln, equality, natural right; against East Coast Strauss's esotericism
 - [[Counterrevolution]] — Tait's thesis: the American Conservative Movement has always been functionally counterrevolutionary; catastrophism as the mechanism; paleocons made it explicit
 
@@ -124,3 +129,4 @@
 - [[IM-1776]] — Hard Right magazine founded 2020; Granza editor (Italy→Hungary); Rufo manifesto Jan 2024; first post reviewed BAM
 - [[Journal of American Greatness]] — anonymous proto-Trumpist blog 2016; Pappin as "Manlius Capitolinus"
 - [[Postliberal Order]] — Substack founded Feb 2022; Vermeule/Deneen/Pappin/Pecknold; coincided with CGC publication
+- [[Project 2025]] — Heritage Foundation's 920-page governing blueprint (2023); Schedule F; ~80 partner orgs including Claremont [stub]

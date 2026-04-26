@@ -87,7 +87,7 @@ Heritage's conversion is the clearest single indicator of how completely the New
 
 ## Cross-References
 
-- [[Kevin D. Roberts]] — current president
+- [[Kevin Roberts]] — current president
 - [[Jim DeMint]] — president 2013-2017; radicalized Heritage
 - [[National Conservatism]] — the movement Heritage has formally joined
 - [[Claremont Institute]] — allied institution in Project 2025; Roberts co-authored 79 Days Report with Ryan Williams

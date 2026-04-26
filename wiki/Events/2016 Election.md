@@ -39,7 +39,7 @@ The 2016 election is the moment when the New Right's long intellectual project c
 
 The 2016 election did not come from nowhere. The intellectual infrastructure that made it possible had been building for decades:
 - [[Harry V. Jaffa]]'s [[West Coast Straussianism]] provided the political philosophy
-- [[Patrick Buchanan]]'s [[Paleoconservatism]] (1990s) provided the template for trade/immigration/anti-interventionism
+- [[Pat Buchanan]]'s [[Paleoconservatism]] (1990s) provided the template for trade/immigration/anti-interventionism
 - The internet Right and [[Hard Right]] figures like [[Curtis Yarvin]] provided the cultural energy and the "red pill" pipeline
 - [[The Flight 93 Election]] provided the intellectual permission slip for elite conservatives to vote Trump
 

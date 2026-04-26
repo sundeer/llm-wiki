@@ -96,7 +96,7 @@ In 2022, after Russia's invasion of Ukraine, Hazony sided with Ukraine — break
 - [[R.R. Reno]] — NatCon ally; *First Things* editor
 - [[Patrick Deneen]] — overlapping Rutgers period; NatCon 1 speaker
 - [[Josh Hawley]] — NatCon 1 culminating speaker
-- [[Julius Krein]] — NatCon 1 speaker; economic populism
+- [[Julius Krein]] — NatCon 1 speaker; economic [[Populism]]
 - [[Oren Cass]] — NatCon 1 industrial policy debater
 - [[JD Vance]] — prominent NatCon speaker across conferences
 - [[Viktor Orbán]] — NatCon Rome guest of honor; model of illiberal governance

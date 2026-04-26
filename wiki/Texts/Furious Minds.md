@@ -156,3 +156,4 @@ Field: "I hope our fate is otherwise. Let's work to make it so."
 - [[Claremont Institute]] — founded 1979 by Jaffa's students
 - [[National Conservatism]] — Ch. 5
 - [[January 6 2021]] — Ch. 7 "Stopping the Steal"
+- [[On Campus Trump Fans Safe Spaces]] — Field's earlier academic research on conservative campus culture; precursor to *Furious Minds*

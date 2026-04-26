@@ -58,7 +58,7 @@ The populism-elitism tension reaches its crisis at January 6. The Stop the Steal
 - [[MAGA New Right]] — the movement populism mobilizes
 - [[The Claremonters]] — philosophical populism
 - [[National Conservatism]] — national populism
-- [[The Hard Right]] — raw populism
+- [[Hard Right]] — raw populism
 - [[The Flight 93 Election]] — elite-produced populist manifesto
 - [[January 6 2021]] — populism as instrument of elite project
 - [[Ideas First]] — the elitist counterpart to populist rhetoric

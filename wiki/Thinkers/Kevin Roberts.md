@@ -28,7 +28,7 @@ He became president of the **Texas Public Policy Foundation** in 2016, where he 
 
 ## Heritage Foundation President (October 2021)
 
-Roberts was named Heritage president in October 2021, replacing **Kay Cole James** and **Kim Holmes**, who had both retired in March 2021. His appointment signaled that Heritage's board had decided Trump-style right-wing populism was the future of American conservatism.
+Roberts was named Heritage president in October 2021, replacing **Kay Cole James** and **Kim Holmes**, who had both retired in March 2021. His appointment signaled that Heritage's board had decided Trump-style right-wing [[Populism]] was the future of American conservatism.
 
 ---
 
