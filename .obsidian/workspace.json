@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Overview.md",
+                "file": "wiki/Concepts/Schedule F.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Schedule F"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 970.5
+    "width": 575.5
   },
   "right": {
     "id": "28839bce51c21c60",
@@ -195,43 +195,43 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "72951b76ac001d25",
+  "active": "e955b0857c38a738",
   "lastOpenFiles": [
-    "wiki/Events/2020 Election.md",
+    "wiki/Institutions/Witherspoon Institute.md",
+    "wiki/Thinkers/Matthew Spalding.md",
+    "wiki/Thinkers/Jared Taylor.md",
+    "wiki/Thinkers/Jim DeMint.md",
+    "wiki/Thinkers/David Brog.md",
+    "wiki/Thinkers/Clarence Thomas.md",
+    "wiki/Concepts/Great Replacement Theory.md",
+    "wiki/Concepts/Administrative State.md",
+    "wiki/Concepts/The Cathedral.md",
     "wiki/Concepts/Schedule F.md",
-    "wiki/Thinkers/Rod Dreher.md",
-    "wiki/Institutions/American Greatness.md",
-    "wiki/Institutions/Claremont Review of Books.md",
-    "wiki/Thinkers/Laura K. Field.md",
-    "wiki/Thinkers/Laura K. Field.md.tmp.227.1777236428837",
+    "wiki/Movements/Christian Nationalism.md",
+    "wiki/Movements/Fusionism.md",
+    "wiki/Movements/Paleoconservatism.md",
     "wiki/Texts/The Virtue of Nationalism.md",
-    "wiki/Institutions/Edmund Burke Foundation.md",
-    "wiki/Texts/Tyranny, Inc.md",
+    "wiki/Texts/Republic.md",
+    "wiki/Texts/The Flight 93 Election.md",
+    "wiki/Thinkers/Plato.md",
+    "wiki/Overview.md",
+    "Clippings/The Flight 93 Election.md",
+    "wiki/Concepts/Catholic Integralism.md",
+    "raw/Republic -- Plato.pdf",
+    "wiki/Texts/The Fight is Now.md",
+    "wiki/Events/2020 Election.md",
+    "index.md",
+    "Clippings/Untitled.md",
+    "wiki/Thinkers/Russell Kirk.md",
+    "wiki/Thinkers/Rod Dreher.md",
+    "wiki/Thinkers/Laura K. Field.md.tmp.227.1777236428837",
     "CLAUDE.md.tmp.227.1777223692347",
     "wiki/Inbox",
-    "wiki/Concepts/The Cathedral.md",
-    "wiki/Institutions/Project 2025.md",
-    "wiki/Concepts/MAGA New Right.md",
-    "wiki/Thinkers/Pat Buchanan.md",
-    "wiki/Thinkers/Paul Gottfried.md",
-    "wiki/Thinkers/Sam Francis.md",
-    "MAGA New Right.md",
-    "Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md",
-    "Clippings/Untitled.md",
-    "Clippings/Conservatives or Counterrevolutionaries?.md",
-    "Clippings/How Bronze Age Pervert Charmed the Far Right.md",
-    "wiki/Thinkers/Joshua Tait.md",
-    "wiki/Texts/Beyond Originalism.md",
-    "wiki/Texts/How the Claremont Institute Became a Nerve Center.md",
-    "wiki/Texts/How Bronze Age Pervert Charmed the Far Right.md",
-    "wiki/Texts/Conservatives or Counterrevolutionaries?.md",
-    "wiki/Concepts/Counterrevolution.md",
     "raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf",
     "raw/Furious Minds.pdf",
     "wiki/Institutions",
     "wiki/Events",
     "wiki/Texts",
-    "wiki/Concepts",
-    "wiki/Movements"
+    "wiki/Concepts"
   ]
 }

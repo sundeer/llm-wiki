@@ -26,7 +26,7 @@ Yarvin is a longtime friend of [[Peter Thiel]] — he reportedly watched the 201
 
 Yarvin's thinking began as an outgrowth of Silicon Valley libertarianism. He was influenced by Murray Rothbard. His libertarianism eventually morphed into a preference for strict authoritarian rule styled on the self-actualizing tech startup CEO. He is thought to be the earliest popularizer of the "red pill" meme. He believes in "turbocapitalism" and has written about El Salvador under President Bukele as a model "startup state."
 
-Joshua Tait described him as "a new type of radical Right activist at odds with the conservative mainstream: young, coastal, anonymous, secular, male, and adept at manipulating digital technologies to advance an anti-progressive agenda."
+[[Joshua Tait]] described him as "a new type of radical Right activist at odds with the conservative mainstream: young, coastal, anonymous, secular, male, and adept at manipulating digital technologies to advance an anti-progressive agenda."
 
 ---
 

@@ -2,7 +2,7 @@
 title: Leo Strauss
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf]
+sources: [Raw/Furious Minds.pdf, Raw/Republic -- Plato.pdf]
 updated: 2026-04-25
 ---
 
@@ -42,6 +42,20 @@ In the early 2000s there was speculation about a "Straussian neoconservative cab
 
 ---
 
+## Strauss's Reading of Plato's *Republic*
+
+The *Republic* is the central text of Straussian political philosophy, and Strauss's reading of it is the most politically consequential interpretation of an ancient text in modern American conservatism.
+
+**The esoteric reading**: Strauss argued that the *Republic*'s most radical proposals — guardian communism, philosopher-kings, the Noble Lie — are deliberately absurd. Plato is showing the *impossibility* of the ideal city, not prescribing it. The philosopher-king passage (473c-d) is not a political program but a demonstration that philosophy and politics are ultimately incompatible: perfect justice requires eliminating the family, private property, and private life — which would destroy everything that makes politics possible. The ideal city exists only "in heaven" (592b) as a theoretical standard.
+
+**Natural right from the Form of the Good**: Strauss's doctrine of "natural right" — the claim that there are knowable standards of justice transcending historical circumstance — is a secularization of Plato's Form of the Good (504e-509b). The philosopher who ascends from the Cave to see the Sun has access to a transcendent standard of justice. For Strauss, this standard is not supernatural but rational: accessible through political philosophy, not faith.
+
+**The esoteric/exoteric distinction in practice**: Strauss's claim that the *Republic* has two teachings — one for the many (justice is good because it produces social stability and divine reward) and one for the few (the philosopher's life is intrinsically best regardless of social consequences) — is the model for his general doctrine of [[Esotericism]]. The many need the Noble Lie (414b); the philosophers know it is a lie.
+
+**The philosopher's political role**: Strauss read the *Republic* as establishing that the philosopher is *compelled* to govern (519d-521b) but does not want to — and that this reluctance is precisely what makes the philosopher-king the best ruler. He explicitly did not endorse political activism or the West Coast Straussian turn toward electoral politics.
+
+---
+
 ## Strauss and the New Right
 
 Strauss himself would not have recognized the MAGA New Right, and not all Straussians are New Right figures — many prominent Never Trumpers and anti-Trump liberals have Straussian backgrounds. But West Coast Straussians (the Claremonters) form the Claremonter core of the New Right, and Straussian methods and preoccupations pervade the movement:
@@ -71,3 +85,5 @@ Strauss's esotericism also bears a troubling resemblance to the political "noble
 - [[West Coast Straussianism]] — the Claremonter philosophical tradition
 - [[Esotericism]] — Strauss's key methodological concept
 - [[Claremont Institute]] — founded by Jaffa's students in 1979
+- [[Republic]] — the central Platonic text for Straussian political philosophy; Strauss's esoteric reading is the most politically consequential interpretation in American conservatism
+- [[Plato]] — the philosopher Strauss centered his work on

@@ -8,7 +8,7 @@ updated: 2026-04-26
 
 # "Conservatives or Counterrevolutionaries?"
 
-**Author:** Joshua Tait  
+**Author:** [[Joshua Tait]]  
 **Year:** 2024  
 **Genre:** Essay (Substack, *Notes Toward a History of the Conservative Movement*)  
 **Published:** August 24, 2024  

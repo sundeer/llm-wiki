@@ -2,7 +2,7 @@
 title: Costin Alamariu
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/How Bronze Age Pervert Charmed the Far Right.md]
+sources: [Raw/Furious Minds.pdf, Clippings/How Bronze Age Pervert Charmed the Far Right.md, Raw/Republic -- Plato.pdf]
 updated: 2026-04-26
 ---
 
@@ -77,6 +77,20 @@ Around the same time, **Nate Hochman** (a rising star on the New Right) told jou
 
 ---
 
+## BAP's Platonic Reading: Thymos against Logos
+
+Alamariu's Yale dissertation — later published as *Selective Breeding and the Birth of Philosophy* (2023) — makes the [[Republic]] the center of a Nietzsche-Plato synthesis that *inverts* the standard Straussian reading.
+
+**Where Strauss valorizes logos** (reason, the philosopher who ascends from the Cave to see the Form of the Good), **BAP valorizes thymos** (the spirited part — the warrior's honor, the will to victory). BAP's "Bronze Age" ideal is the *timocratic man* — the honor-loving, spirited soul that Plato ranks *second* among constitutional types (Republic VIII, 547d-548b), already the first stage of degeneration from the ideal. Where Plato sees timocracy as noble but flawed (it will decay into oligarchy), BAP sees it as the peak of human vitality.
+
+**The "beast within"** (Republic IX, 571b-572b): Plato describes the lawless desires awakened in sleep, when reason slumbers — the soul's capacity for incest, murder, any act of folly. Plato wants to discipline this through education and law. BAP celebrates it: the "beast within" is not a danger to be tamed but the source of vitality that the modern liberal order has suppressed. *Bronze Age Mindset* is written from the perspective of the appetitive-spirited soul that Plato would educate into submission.
+
+**Philosophy and tyranny as kindred**: The dissertation argues that philosophy and tyranny are not antagonists but fundamentally related — both involve the soul's drive to transgress convention, dominate space, and remake the world according to its vision. This is the opposite of the Straussian reading (philosopher as reluctant, non-ambitious, private). For BAP, the philosopher is a kind of tyrant of the soul; the New Right's political program is the philosopher's tyranny externalized.
+
+**The erotic drone** (Republic IX, 572e-573a): Plato describes erotic love as "a great winged drone" that occupies the citadel of the soul and drives the tyrant. For BAP, this is not horror but aspiration. His celebration of male eros, physical domination, and "owned space" maps onto Plato's erotic-tyrannical soul — which Plato says is the *most wretched* of all souls (579d), and BAP presents as the most vital.
+
+---
+
 ## *Selective Breeding and the Birth of Philosophy* (September 2023)
 
 A month after the *Atlantic* profile brought his identity to light, Alamariu self-published his Yale dissertation under a new, offensive title: ***Selective Breeding and the Birth of Philosophy*** (September 15, 2023; original title: "The Problem of Tyranny and Philosophy in the Thought of Plato and Nietzsche"). It briefly entered the Amazon top 100.
@@ -141,3 +155,5 @@ Field's framing: "To look cool, you whitewash and elevate the genocidal writings
 - [[Tucker Carlson]] — featured REN (Alamariu's collaborator) in "The End of Men"
 - [[Christopher Rufo]] — congratulated Alamariu on *Selective Breeding*; conduit between Claremont and Hard Right
 - [[Manosphere]] — the masculinity-crisis ecosystem in which REN and BAP operate
+- [[Republic]] — the Platonic text at the center of his dissertation; his reading inverts the Straussian interpretation
+- [[Plato]] — the ancient philosopher he engages with (and against) in his academic and public work

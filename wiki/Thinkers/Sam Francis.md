@@ -17,7 +17,7 @@ Key concepts:
 - **"Beautiful Losers"** (1993, *Chronicles*): Argued that the conservative movement always loses because it defends universal principles (property rights, rule of law, market freedom) rather than the *particular* civilization — white, Christian, Western — that produced those principles. Movement conservatism was, on this account, designed to lose gracefully while appearing to fight.
 - ***Leviathan and Its Enemies*** (posthumous, 2016): Drawing on James Burnham's managerial-revolution thesis, Francis argued that the modern state and corporate capitalism had fused into a managerial elite hostile to Middle American values — a framework that anticipates the New Right's attack on the "administrative state."
 
-Joshua Tait's "Conservatives or Counterrevolutionaries?" treats Francis as a key data point for the counterrevolutionary thesis: Francis dropped the pretense of Burkean conservatism entirely and advocated explicitly for what Tait calls the counterrevolutionary tradition.
+[[Joshua Tait]]'s "[[Conservatives or Counterrevolutionaries?]]" treats Francis as a key data point for the counterrevolutionary thesis: Francis dropped the pretense of Burkean conservatism entirely and advocated explicitly for what Tait calls the counterrevolutionary tradition.
 
 ## Cross-References
 

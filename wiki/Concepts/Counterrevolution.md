@@ -8,7 +8,7 @@ updated: 2026-04-26
 
 # Counterrevolution
 
-**The claim, advanced by historians of conservatism like Joshua Tait, that the American Conservative Movement has always been functionally counterrevolutionary — aiming to restore a prior political and cultural order — rather than genuinely conservative in the Burkean sense of preserving the present; the concept frames the continuity between 1950s movement conservatism, paleoconservatism, and the MAGA New Right**
+**The claim, advanced by historians of conservatism like [[Joshua Tait]], that the American Conservative Movement has always been functionally counterrevolutionary — aiming to restore a prior political and cultural order — rather than genuinely conservative in the Burkean sense of preserving the present; the concept frames the continuity between 1950s movement conservatism, paleoconservatism, and the MAGA New Right**
 
 ---
 

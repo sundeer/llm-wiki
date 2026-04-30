@@ -19,13 +19,17 @@
 - [[Christopher Caldwell]] — *The Age of Entitlement* (2020); traces bad constitution to Civil Rights Act; Claremont senior fellow
 - [[Christopher DeMuth]] — AEI president emeritus; NatCon organizer; interviewed Orbán at NatCon Rome
 - [[Christopher Rufo]] — Georgetown SFS; anti-CRT architect; Hillsdale; New College of Florida takeover
+- [[Clarence Thomas]] — SCOTUS Associate Justice (1991–); hired Claremont scholars at EEOC; cites Declaration in jurisprudence under Jaffa influence [stub]
 - [[Costin Alamariu]] — Bronze Age Pervert (BAP); Yale PhD; Hard Right's most intellectually pretentious figure
 - [[Curtis Yarvin]] — Mencius Moldbug; neoreactionary; "The Cathedral"; techno-monarchy; Peter Thiel connection
 - [[Darren Beattie]] — Duke PhD; Trump speechwriter fired for white nationalist conference; Revolver News
+- [[David Brog]] — Edmund Burke Foundation president; ex–CUFI executive director; NatCon co-organizer with Hazony [stub]
 - [[Gladden Pappin]] — Catholic integralist; *American Affairs* co-founder; Budapest dispatch; took job at Orbán's think tank
 - [[Glenn Ellmers]] — Claremont; "The People Are Not the Country" (2021); friend/enemy applied to liberal Americans
 - [[Harry V. Jaffa]] — Claremont's founder; Lincoln scholar; two Jaffas; equality vs. natural right debate
 - [[Harvey Mansfield]] — Harvard Government 60 years; East Coast Straussian; Alamariu's dissertation committee; AEI fête July 2022
+- [[Jared Taylor]] — *American Renaissance* founder (1990); white-nationalist intellectual; Hard Right node; Sam Francis venue [stub]
+- [[Jim DeMint]] — SC Senator; Heritage president 2013–2017; first turned Heritage activist; precursor to Roberts [stub]
 - [[Joshua Tait]] — conservative intellectual historian; Substack; "Conservatives or Counterrevolutionaries?" (2024) [stub]
 - [[Laura K. Field]] — *Furious Minds* (2025); Niskanen Center; anchor author of this wiki [stub]
 - [[M.E. Bradford]] — neo-Confederate intellectual; anti-Lincoln; Bradford-Jaffa debate; Reagan's failed NEH nominee (1981); University of Dallas
@@ -42,12 +46,14 @@
 - [[Julius Krein]] — *American Affairs* co-founder; early Trump intellectual; disillusionment by 2018
 - [[Kevin Roberts]] — Heritage Foundation president since Oct 2021; Project 2025; Buchanan volunteer 1992
 - [[Larry P. Arnn]] — Hillsdale College president; Churchill scholar; Jaffa student; 1776 Commission co-chair
+- [[Matthew Spalding]] — Hillsdale VP / Heritage alum; executive director of the 1776 Commission [stub]
 - [[Leo Strauss]] — German-Jewish political philosopher; father of Straussianism; esotericism; natural right
 - [[Michael Anton]] — *The Flight 93 Election*; NSC official; Claremont; Italian suits
 - [[Nathan Pinkoski]] — Oxford PhD; James Madison Program postdoc; NatCon 3 Schmitt/Maurras/Camp of the Saints talk
 - [[Oren Cass]] — American Compass; supply-side economics critic; worker-centered economics
 - [[Pat Buchanan]] — 1992/1996 "Culture War" campaigns; paleoconservative godfather; Trumpism's direct precursor
 - [[Patrick Deneen]] — Notre Dame; *Why Liberalism Failed*; *Regime Change*; "We have to win"; Budapest dispatch
+- [[Plato]] — (c. 428–348 BCE); author of the *Republic*; deepest ancient source for New Right anti-democratic theory; transmitted via Strauss, Bloom, and BAP
 - [[Paul Gottfried]] — Elizabethtown College; coined "alternative right" (2008); H.L. Mencken Club; paleocon patriarch
 - [[Peter Thiel]] — PayPal; Palantir; Vance patron; Yarvin connection; anti-democratic libertarian to New Right
 - [[R.R. Reno]] — *First Things* editor; "strong gods" thesis; supported February Statement 2020
@@ -91,6 +97,8 @@
 - [[Schedule F]] — executive reclassification of civil servants as at-will employees; Project 2025's most structurally significant mechanism [stub]
 - [[West Coast Straussianism]] — Jaffa's branch; Lincoln, equality, natural right; against East Coast Strauss's esotericism
 - [[Counterrevolution]] — Tait's thesis: the American Conservative Movement has always been functionally counterrevolutionary; catastrophism as the mechanism; paleocons made it explicit
+- [[Administrative State]] — post–New Deal regulatory bureaucracy; the New Right's all-purpose enemy; target of Schedule F and Project 2025 [stub]
+- [[Great Replacement Theory]] — demographic-displacement conspiracism; bridge between New Right immigration politics and Hard Right white nationalism [stub]
 
 ---
 
@@ -106,6 +114,7 @@
 - [[Integration from Within]] — Vermeule 2018; infiltrate administrative state; reject Benedict Option; "sear the liberal faith"
 - [[On Campus Trump Fans Safe Spaces]] — Field's original research article; conservative campus culture
 - [[Regime Change]] — Deneen 2023; Aristopopulism; "Machiavellian means"; Vance at launch; nothing on Jan 6
+- [[Republic]] — Plato c. 380 BCE (Grube/Reeve trans.); philosopher-king, Cave allegory, democratic degeneration → tyranny; the primary ancient source for New Right anti-democratic theory
 - [[The Fight is Now]] — NatCon's tactical document; "Ideas First" theory of change
 - [[The Flight 93 Election]] — Michael Anton 2016; catastrophism; vote Trump or the plane crashes
 - [[Tyranny, Inc.]] — Ahmari 2023; working-class economics; unions; break with integralists on freedom
@@ -138,3 +147,4 @@
 - [[Postliberal Order]] — Substack founded Feb 2022; Vermeule/Deneen/Pappin/Pecknold; coincided with CGC publication
 - [[Edmund Burke Foundation]] — Hazony's NatCon organizing institution; David Brog president; DeMuth conference chair [stub]
 - [[Project 2025]] — Heritage Foundation's 920-page governing blueprint (2023); Schedule F; ~80 partner orgs including Claremont
+- [[Witherspoon Institute]] — Princeton-adjacent conservative research institute (2003); *Public Discourse*; Robby George orbit; natural-law/legal infrastructure [stub]

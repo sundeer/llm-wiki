@@ -44,7 +44,7 @@ Frank Meyer (fusionist) attacked Kirk for not laying out principles sufficient t
 
 ## Conservative vs. Counterrevolutionary: The Kirk Problem
 
-The deepest tension Joshua Tait identifies in Kirk's legacy: how can you be a *conservative* after a revolution? Kirk assumed the American political order was largely intact. But mainstream conservatism rapidly made it dogma that the New Deal (and later progressivism generally) had fundamentally transformed the republic. If the republic is gone, the conservative is not preserving anything — he is attempting to restore something lost. This is counterrevolution, not conservatism.
+The deepest tension [[Joshua Tait]] identifies in Kirk's legacy: how can you be a *conservative* after a revolution? Kirk assumed the American political order was largely intact. But mainstream conservatism rapidly made it dogma that the New Deal (and later progressivism generally) had fundamentally transformed the republic. If the republic is gone, the conservative is not preserving anything — he is attempting to restore something lost. This is counterrevolution, not conservatism.
 
 Kirk's movement inherited his language (tradition, Burke, "the permanent things") but pursued an agenda of restoration that his own principles could not fully support. The *National Review* prospectus (1955) characterized the New Deal as a "total revolution" — rhetoric at odds with genuine Burkean humility about the difficulty of political change.
 
