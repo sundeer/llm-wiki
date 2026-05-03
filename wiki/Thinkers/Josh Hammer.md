@@ -63,7 +63,6 @@ Hammer represents the **popularizing layer** of the common-good constitutional m
 
 - [[Common Good Constitutionalism]] — the theory Hammer popularized and adapted
 - [[Adrian Vermeule]] — the theorist Hammer followed and partially modified
-- [[Bostock v. Clayton County]] — the *Bostock* ruling catalyzed Hammer's anti-originalism
 - [[National Conservatism]] — the movement Hammer aligned with (Edmund Burke Foundation research fellow)
 - [[Heritage Foundation]] — Hammer aligned with Roberts's Heritage against old-guard figures like Holmes
 - [[West Coast Straussianism]] — the Jaffa tradition Hammer tried to reconcile with common-good thinking

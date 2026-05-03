@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Concepts/Great Replacement Theory.md",
-                "mode": "preview",
+                "file": "Clippings/The New Lost Cause.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Great Replacement Theory"
+              "title": "The New Lost Cause"
             }
           }
         ]
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 575.5
+    "width": 894.5
   },
   "right": {
     "id": "28839bce51c21c60",
@@ -197,32 +197,33 @@
   },
   "active": "e955b0857c38a738",
   "lastOpenFiles": [
-    "wiki/Events/Charlottesville 2017.md",
-    "wiki/Thinkers/Michael Anton.md",
-    "wiki/Thinkers/Tucker Carlson.md",
-    "wiki/Thinkers/Laura K. Field.md",
-    "wiki/Thinkers/Clarence Thomas.md",
-    "wiki/Thinkers/Russell Kirk.md",
-    "wiki/Texts/The Fight is Now.md",
-    "wiki/Texts/Why Liberalism Failed.md",
-    "wiki/Institutions/First Things.md",
-    "wiki/Institutions/Compact.md",
-    "wiki/Institutions/Intercollegiate Studies Institute.md",
-    "wiki/Institutions/Postliberal Order.md",
-    "wiki/Institutions/IM-1776.md",
-    "wiki/Concepts/Schedule F.md",
-    "wiki/Institutions/Witherspoon Institute.md",
-    "wiki/Thinkers/Matthew Spalding.md",
-    "wiki/Thinkers/Jared Taylor.md",
-    "wiki/Thinkers/Jim DeMint.md",
-    "wiki/Thinkers/David Brog.md",
-    "wiki/Concepts/Great Replacement Theory.md",
-    "wiki/Concepts/Administrative State.md",
-    "wiki/Concepts/The Cathedral.md",
-    "wiki/Movements/Christian Nationalism.md",
-    "wiki/Movements/Fusionism.md",
-    "wiki/Movements/Paleoconservatism.md",
-    "wiki/Texts/The Virtue of Nationalism.md",
+    "wiki/Thinkers/Rick Perlstein.md",
+    "wiki/Thinkers/Wilson Carey McWilliams.md",
+    "wiki/Texts/Democracy Faces a Reactionary Counter-Mobilization.md",
+    "wiki/Texts/I Thought I Understood the American Right.md",
+    "wiki/Texts/The New Lost Cause.md",
+    "wiki/Texts/I Don't Want to Violently Overthrow the Government.md",
+    "wiki/Texts/America Is a Republic, Not a Democracy.md",
+    "wiki/Thinkers/Matthew Dallek.md",
+    "index.md.tmp.226.1777820906252",
+    "wiki/Texts/The Conscience of a Conservative.md",
+    "wiki/Texts/The Conservative Consensus.md",
+    "wiki/Thinkers/L. Brent Bozell Jr.md",
+    "wiki/Thinkers/Ronald Reagan.md",
+    "wiki/Thinkers/Frank Meyer.md",
+    "wiki/Thinkers/Barry Goldwater.md",
+    "wiki/Thinkers/Robert Welch.md",
+    "wiki/Thinkers/William F. Buckley Jr.md",
+    "wiki/Institutions/John Birch Society.md",
+    "wiki/Texts/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md",
+    "wiki/Texts/Debunking a Longstanding Myth About William F. Buckley.md",
+    "wiki/Institutions/James Madison Program.md",
+    "Clippings/‘America Is a Republic, Not a Democracy’ Is a Dangerous—And Wrong—Argument.md",
+    "Clippings/The New Lost Cause.md",
+    "Clippings/Democracy Faces a Reactionary Counter-Mobilization.md",
+    "Clippings/Debunking a Longstanding Myth About William F. Buckley.md",
+    "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md",
+    "Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md",
     "raw/Republic -- Plato.pdf",
     "wiki/Thinkers/Laura K. Field.md.tmp.227.1777236428837",
     "CLAUDE.md.tmp.227.1777223692347",
@@ -231,7 +232,6 @@
     "raw/Furious Minds.pdf",
     "wiki/Institutions",
     "wiki/Events",
-    "wiki/Texts",
-    "wiki/Concepts"
+    "wiki/Texts"
   ]
 }

@@ -44,6 +44,8 @@ Catastrophism appears at every escalation point in the arc:
 
 Each catastrophist claim licenses the next escalation. The logical endpoint — visible in Glenn Ellmers's Claremont essay declaring the 80 million Biden voters "not Americans in any meaningful sense of the term" — is a [[Decisionism|Schmittian]] friend/enemy distinction applied to half the electorate.
 
+The most stubborn objection to this continuity reading has been the canonical "Buckley purged the fringe" story — the claim that [[William F. Buckley Jr.]]'s 1961–1965 *National Review* editorials excommunicated the [[John Birch Society]] and disciplined the conspiracist, racially reactionary right out of mainstream conservatism, drawing a real boundary that only collapsed with Trump. Recent historiography ([[Debunking a Longstanding Myth About William F. Buckley|Dallek 2023]], drawing on Schlozman and Rosenfeld) treats this as substantially mythologized: Buckley's "excommunication" was a *cordon sanitaire* drawn around [[Robert Welch]] personally while Buckley wrote privately to Birch leaders that he had not made "a single unfavorable reference to any members of the John Birch Society." The subscriber overlap, the personal relationships with antisemitic figures like Revilo Oliver, and the substantive Bircher politics — anti–civil rights, anti-UN nationalism, conspiracism, racial demographic anxiety — all stayed inside the conservative tent. The MAGA New Right is then legible not as the return of what was once expelled but as the resurfacing of what was always there once the brand-management consensus collapsed.
+
 ---
 
 ## III. The Constitutional Civil War: Bradford vs. Jaffa
@@ -93,6 +95,8 @@ The MAGA New Right is a coalition of counterrevolutionary currents that had been
 - **[[Hard Right]] adjacent**: [[Costin Alamariu]] (BAP), [[Curtis Yarvin]]; not formally integrated but providing the energy the movement channels into the mainstream via figures like [[Michael Anton]] and outlets like *The American Mind*
 
 [[Steve Bannon]]'s self-description as a "Leninist" — wanting to "destroy the state" — was the honest version. [[Thomas Klingenstein]]'s "woke communism" and "cold civil war" framing was the institutional version. [[The Flight 93 Election]] was the popular version. They are all expressions of the same catastrophist counterrevolutionary logic.
+
+The clearest single institutional indicator of how complete the synthesis has become is the trajectory of the [[Heritage Foundation]]. In 2007, Heritage's flagship intellectual-history report ([[The Conservative Consensus]] by Lee Edwards) prescribed "**a renewed fusionism**" — limited government, free markets, individual freedom and responsibility, virtue cultivated through a balanced civic order. The same institution under [[Kevin Roberts]] (a Buchanan-1992 volunteer) published [[Project 2025]] in 2023 — a 920-page operational program for state-led cultural restoration via [[Schedule F]] and [[Administrative State]] dismantling. The 2007 prescription was structured precisely to forestall the 2023 program. Heritage has not just changed leadership; it has switched between two structurally incompatible frameworks. The same building, same donor base, same Mandate-for-Leadership format — but the political philosophy has flipped from Meyer-Reagan-Buckley fusionism to a Bozell-Deneen-Vermeule postliberalism. The wiki treats this single trajectory as one of the most useful indicators of the systemic shift the MAGA New Right represents at the institutional level.
 
 ---
 

@@ -2,8 +2,8 @@
 title: Heritage Foundation
 type: institution
 tags: []
-sources: [Raw/Furious Minds.pdf]
-updated: 2026-04-26
+sources: [Raw/Furious Minds.pdf, "Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md"]
+updated: 2026-05-03
 ---
 
 # Heritage Foundation
@@ -14,7 +14,15 @@ updated: 2026-04-26
 
 ## What It Is
 
-The Heritage Foundation is the largest and most influential conservative think tank in Washington. Founded in 1973, it was for decades the institutional anchor of Reagan-Buckley establishment conservatism. Its "Mandate for Leadership I" (1981) inaugurated its tradition of publishing policy recommendations for incoming administrations — much of Reagan's policy platform derived from it. By 2018, Trump (like Reagan) had "embraced nearly two-thirds of the policy recommendations from the Heritage Foundation's 'Mandate for Leadership.'"
+The Heritage Foundation is the largest and most influential conservative think tank in Washington. Founded in 1973 by Paul Weyrich, Edwin Feulner, and Joseph Coors, it was for decades the institutional anchor of Reagan-Buckley establishment conservatism — the policy infrastructure of [[Fusionism]]. Its "Mandate for Leadership I" (1981) inaugurated its tradition of publishing policy recommendations for incoming administrations — much of [[Ronald Reagan]]'s policy platform derived from it. By 2018, Trump (like Reagan) had "embraced nearly two-thirds of the policy recommendations from the Heritage Foundation's 'Mandate for Leadership.'"
+
+## Heritage's Self-Reversal: 2007 → 2025
+
+The clearest single document of Heritage's pre-MAGA self-conception is [[The Conservative Consensus]] (Lee Edwards, 2007), a Heritage report calling for "a renewed fusionism based on limited government, the free market, individual freedom and responsibility, a balance between liberty and law, and a commitment to moral order and to virtue, both private and public." Edwards canonized [[Frank Meyer]] as fusionism's intellectual father, [[Barry Goldwater]] as its first political apostle, and [[Ronald Reagan]] as its master practitioner. The 2007 essay's prescription was explicit: more fusionism, more Meyer, more Reagan.
+
+Sixteen years later, the same institution published [[Project 2025]] (2023), a 920-page operational program for state-led cultural restoration, [[Schedule F]] reclassification of the federal civil service, and dismantling of the [[Administrative State]] — *exactly* the politics Edwards's "renewed fusionism" was structured to forestall. Edwards's prescription assumed virtue would be cultivated through a balanced civic order; Project 2025 deploys virtue as a substantive policy goal pursued through executive power.
+
+Heritage's 2007-to-2025 trajectory is the wiki's clearest single piece of evidence for the systemic shift the [[MAGA New Right]] represents at the institutional level. The same think tank, with substantial continuity in donor base and physical building, has switched between two structurally incompatible frameworks. The shift is not just a generational change of leadership; it is the abandonment of one set of operating premises ([[Fusionism]]) for another ([[Postliberalism]]-adjacent statist conservatism — [[Common Good Constitutionalism]] is Heritage's de facto jurisprudential tendency under [[Kevin Roberts]]).
 
 ---
 

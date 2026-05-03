@@ -2,8 +2,8 @@
 title: Russell Kirk
 type: thinker
 tags: []
-sources: [Clippings/Conservatives or Counterrevolutionaries?.md, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf]
-updated: 2026-04-26
+sources: [Clippings/Conservatives or Counterrevolutionaries?.md, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf, "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/Debunking a Longstanding Myth About William F. Buckley.md"]
+updated: 2026-05-03
 ---
 
 # Russell Kirk (1918–1994)
@@ -38,7 +38,9 @@ Crucially, Kirk held that the *American* constitutional order was fundamentally 
 
 Despite setting the vocabulary of the Conservative Movement, Kirk's substantive influence declined as he became more a prestigious citation than an active shaper of ideas. The movement conservatives who claimed him in the 1950s — Buckley's *National Review* circle, the Goldwaterites — were more interested in rolling back the New Deal than in anything Kirk actually recommended. Kirk's conservatism implied *accepting* the broad modern state while resisting further expansion; the movement wanted *demolition*.
 
-Frank Meyer (fusionist) attacked Kirk for not laying out principles sufficient to repudiate the New Deal. The Straussians (Jaffa) thought him "shallowly aphilosophical." Willmoore Kendall thought Burkean conservatism essentially un-American. In each case, critics found that Kirk's prescription-and-tradition framework gave no purchase for the radical rollback they sought.
+[[Frank Meyer]] (fusionist) attacked Kirk for not laying out principles sufficient to repudiate the New Deal — Kirk and the traditionalists, in Meyer's gloss, had no grounding in "any clear and distinct principle." Kirk replied that Meyer's "individualism" was "social atomism" and even anti-Christian, and that the political result of individualism was anarchy. The Meyer-Kirk dispute (mid-1950s) was the founding intramural quarrel of postwar American conservatism; Meyer's later [[Fusionism|fusionist synthesis]] in *In Defense of Freedom* (1962) was a partial reconciliation that won as the consensus framework but never fully resolved the dispute.
+
+The Straussians (Jaffa) also thought Kirk "shallowly aphilosophical." Willmoore Kendall thought Burkean conservatism essentially un-American. In each case, critics found that Kirk's prescription-and-tradition framework gave no purchase for the radical rollback they sought.
 
 ---
 
@@ -52,6 +54,12 @@ The trajectory from Kirk's 1953 conservatism to Buchanan's 1992 "culture war" sp
 
 ---
 
+## Kirk and the Birch Episode (1962)
+
+Kirk participated in the 1962 Palm Beach meeting at the Breakers with [[William F. Buckley Jr.]] and [[Barry Goldwater]] that strategized the conservative movement's public response to the [[John Birch Society]]. Per Buckley's later recollection, Kirk argued the strongest line: the JBS "should be renounced by Goldwater and by everyone else… with any influence on the conservative movement." Buckley and Goldwater chose the softer course — repudiate [[Robert Welch]] personally, retain the rank-and-file. The episode is one more instance of Kirk's pattern: he urges genuinely conservative gatekeeping; the movement's politicians and editors choose tactical management instead. See [[Debunking a Longstanding Myth About William F. Buckley]] (Dallek 2023) for the revisionist reading that even the soft course was less effective than the canonical narrative ([[Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party]]) claims.
+
+---
+
 ## Cross-References
 
 - [[Fusionism]] — the movement that claimed Kirk while departing from his actual vision
@@ -60,3 +68,6 @@ The trajectory from Kirk's 1953 conservatism to Buchanan's 1992 "culture war" sp
 - [[M.E. Bradford]] — Kirk's disciple who made the counterrevolutionary implications explicit
 - [[Harry V. Jaffa]] — the Straussian critic who found Kirk "shallowly aphilosophical"; their dispute parallels Bradford vs. Jaffa
 - [[Declarationism]] — the Straussian-Jaffaite alternative to Kirkian Burkean conservatism
+- [[William F. Buckley Jr.]] — co-strategist at Palm Beach 1962
+- [[John Birch Society]] — the case where Kirk pushed for full renunciation and was overruled
+- [[Barry Goldwater]] — the politician at Palm Beach 1962 whom Kirk and Buckley were trying to brief

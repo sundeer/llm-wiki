@@ -2,8 +2,8 @@
 title: Harry V. Jaffa
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf]
-updated: 2026-04-26
+sources: [Raw/Furious Minds.pdf, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf, "Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md"]
+updated: 2026-05-03
 ---
 
 # Harry V. Jaffa (1918–2015)
@@ -28,9 +28,17 @@ Jaffa is the pivotal figure linking Strauss's academic political philosophy to A
 
 Jaffa's Lincoln is a philosopher-statesman — almost a Socratic figure — who understood that slavery put America in contradiction with its founding principle that "all men are created equal." Unlike other conservatives of his day, Jaffa did not minimize the evil of slavery.
 
-**2. Became politically active:** Jaffa joined a grassroots Goldwater group in Ohio in 1963 and ended up writing key parts of Goldwater's historic 1964 convention acceptance speech at the Cow Palace — including the famous lines: *"I would remind you that extremism in the defense of liberty is no vice. And let me remind you also that moderation in the pursuit of justice is no virtue."*
+**2. Became politically active:** Jaffa joined a grassroots Goldwater group in Ohio in 1963 and ended up writing key parts of [[Barry Goldwater]]'s historic 1964 convention acceptance speech at the Cow Palace.
 
-These lines caused a national firestorm (MLK denounced Goldwater partly because of them) but galvanized a generation of conservatives. Jaffa kept the Goldwater flame burning for decades through the Claremont Institute.
+Per Lee Edwards's [[The Conservative Consensus]] (Heritage 2007), Jaffa drafted the speech's central **"ordered liberty"** passage:
+
+> "This party, with its every action, every word, every breath and every heartbeat has but a single resolve, and that is freedom — freedom made orderly for the Nation by our constitutional government; freedom under a government limited by the laws of nature and of nature's God; freedom — balanced so that order, lacking liberty, will not become a slave of the prison cell; balanced so that liberty, lacking order, will not become the license of the mob and the jungle."
+
+The speech then continued, in the more famous lines:
+
+> *"I would remind you that extremism in the defense of liberty is no vice. And let me remind you also that moderation in the pursuit of justice is no virtue."*
+
+These lines caused a national firestorm (MLK denounced Goldwater partly because of them) but galvanized a generation of conservatives. The Edwards datum is significant for the wiki: Jaffa was therefore not just a Straussian academic but, in 1964, **the constitutional theologian of mainstream fusionist Republican conservatism** — supplying [[Fusionism]] with its central "ordered liberty" formula. His later trajectory (the 1981 Bradford fight; the founding of [[The Claremonters]] as an explicit West Coast Straussian movement; the radicalization of [[Declarationism]]) is the trajectory of the man who *wrote* mid-fusionist Republican rhetoric repositioning his theology against the fusionist mainstream as that mainstream lost coherence. Jaffa kept the Goldwater flame burning for decades through the Claremont Institute.
 
 ---
 

@@ -2,8 +2,8 @@
 title: Regime Change
 type: text
 tags: []
-sources: [Raw/Furious Minds.pdf]
-updated: 2026-04-26
+sources: [Raw/Furious Minds.pdf, "Clippings/‘I Don’t Want to Violently Overthrow the Government. I Want Something Far More Revolutionary.’.md"]
+updated: 2026-05-03
 ---
 
 # *Regime Change* (Patrick Deneen, 2023)
@@ -38,6 +38,16 @@ Key elements:
 
 **Toward Integration:** The final chapter, titled "Toward Integration," called for an overtly Christian state — with holy holidays and tax-funded religious public works.
 
+**Party of Order vs. Party of Progress:** Deneen recasts the political conflict as a binary between (a) a "Party of Progress" — *liberal and conservative elites* aligned around social and economic "progress" — and (b) a "Party of Order" — non-elites who want unions, anti-corporate checks, abortion limits, religion in the public sphere, and an end to "wokeness." The terminology is an unmarked borrowing from 19th-century French Saint-Simonian and Comtean vocabulary; the Saint-Simonian "Party of Order" was the proto-authoritarian counter-party to revolutionary republicanism.
+
+**Transitional policy list.** *Regime Change* lists policies that would "dilute the power of the current ruling class" before the regime change comes to pass: expand the U.S. House; "break up" Washington by redistributing federal agencies around the country; strengthen labor unions; expand industrial policy; create a "Family Czar" to promote family formation; tax elite-college endowments; restrict or outright abolish pornography. [[Laura K. Field]] (quoted in Ian Ward's profile [[I Don't Want to Violently Overthrow the Government]]): "I have not seen a single policy put forward by [the postliberals] that wouldn't be better pursued within the existing liberal democratic framework, so the idea of an overhaul of the actual regime seems really unnecessarily provocative and reckless."
+
+---
+
+## "I Don't Want to Violently Overthrow the Government"
+
+The line — delivered to a Catholic University audience in May 2023 (see [[I Don't Want to Violently Overthrow the Government]] for the Politico profile of the event) — is the cleanest single statement of *Regime Change*'s pitch: *more* radical than January 6, not less; structural capture of state and cultural institutions rather than violent insurrection. When Ward asked Deneen directly whether January 6 would qualify as acceptable Machiavellian tactics, Deneen replied: "**For me**, it wouldn't be." The personal disavowal does not extend to a categorical one. Field's frame, articulated in the same Ward profile: **"illiberal constitutionalism"** — a halfway house between liberal democracy and traditional authoritarianism that maintains the trappings of a liberal regime while dramatically expanding the power of the state.
+
 ---
 
 ## Field's Critique
@@ -60,3 +70,5 @@ Crucially: *Regime Change* had nothing to say about the violence of January 6, 2
 - [[JD Vance]] — spoke at book launch; the Postliberals' most prominent political ally
 - [[Postliberalism]] — the broader movement
 - [[January 6 2021]] — conspicuously absent from the book's analysis
+- [[I Don't Want to Violently Overthrow the Government]] — Ward's profile occasioned by *Regime Change*; primary source for the new vocabulary
+- [[Wilson Carey McWilliams]] — Deneen's communitarian mentor; conceptual scaffold the book partially betrays

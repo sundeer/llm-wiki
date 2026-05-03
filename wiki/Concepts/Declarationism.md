@@ -2,8 +2,8 @@
 title: Declarationism
 type: concept
 tags: []
-sources: [Raw/Furious Minds.pdf, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md]
-updated: 2026-04-26
+sources: [Raw/Furious Minds.pdf, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, "Clippings/‘America Is a Republic, Not a Democracy’ Is a Dangerous—And Wrong—Argument.md"]
+updated: 2026-05-03
 ---
 
 # Declarationism
@@ -79,6 +79,14 @@ Kersch's historical verdict: Bradford was more historically accurate (the founde
 
 ---
 
+## "Republic Not a Democracy" — The Contemporary Deployment
+
+A signature talking point of the Claremont/Hillsdale media ecosystem, the [[MAGA New Right]], and elected Republicans (Mike Lee 2020 and others) in justifying Senate malapportionment, the Electoral College, and Republican-appointed judicial majorities is the formula "**we are a republic, not a democracy**." George Thomas (Atlantic, November 2020 — see [[America Is a Republic, Not a Democracy]]) argues that this formula "surreptitiously fuses *republic* with *minority rule* rather than *popular government*."
+
+The wiki's structural reading: the "republic not democracy" deployment is *internally inconsistent* with classical Declarationism. Madison (*Federalist 14*) treated democracy and republic as variants of popular government. Hamilton ("representative democracy") used the terms interchangeably. Lincoln — Jaffa's hero — declared that "**the rule of a minority, as a permanent arrangement, is wholly inadmissible**." Declarationism on Jaffa's original reading affirms equality and majority rule grounded in natural right; the contemporary "republic not democracy" deployment uses Declarationist *vocabulary* to justify a politics ([[Counterrevolution|durable minority rule]]) that the Declaration's first principles cannot ground. This is one of the wiki's clearest examples of the way the New Right inherits Jaffa's *language* while pursuing politics his philosophy was structured against (see also the Bradford-vs.-Jaffa tension throughout the [[Counterrevolution]] page).
+
+---
+
 ## Cross-References
 
 - [[West Coast Straussianism]] — the philosophical tradition Declarationism belongs to
@@ -91,3 +99,4 @@ Kersch's historical verdict: Bradford was more historically accurate (the founde
 - [[Robert P. George]] — Witherspoon Institute's Declarationist natural law project
 - [[Common Good Constitutionalism]] — Vermeule's post-Declarationist alternative; explicitly rejects natural rights liberalism
 - [[Beyond Originalism]] — Kersch's academic genealogy (primary source for this section)
+- [[America Is a Republic, Not a Democracy]] — Thomas's rebuttal of the contemporary "republic not democracy" deployment

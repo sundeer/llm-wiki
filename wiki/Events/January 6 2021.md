@@ -3,8 +3,8 @@ title: January 6, 2021
 type: event
 date: 2021-01-06
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/The Fight is Now.md]
-updated: 2026-04-26
+sources: [Raw/Furious Minds.pdf, Clippings/The Fight is Now.md, "Clippings/The New Lost Cause.md"]
+updated: 2026-05-03
 ---
 
 # January 6, 2021
@@ -69,6 +69,21 @@ The Claremont Institute was the most directly implicated institution: "The Clare
 **Roger Kimball** wrote in *Imprimis* (Hillsdale College, September 2021): "historians... may well count the 2016 presidential election as the last fair and open democratic election in U.S. history."
 
 **Thomas Klingenstein** (Claremont's main donor and board chairman; also one of NatCon's biggest funders) continued to peddle conspiratorial lies about the stolen election through 2024 — including producing glossy interview videos of Eastman in 2023 that functioned as fundraising mechanisms for his legal fees.
+
+---
+
+## The New Lost Cause (post-2021)
+
+Within nine months of the insurrection, the Republican Party and the broader Trump movement had begun reconstituting January 6 as a sacred moment of patriotic resistance. David A. Graham diagnosed the operation in [[The New Lost Cause]] (*The Atlantic*, October 2021) as the conscious heir of the late-19th-century Confederate Lost Cause:
+
+- **Martyr cult around Ashli Babbitt** (the Air Force veteran shot at the Speaker's Lobby door). Trump produced a 2021 birthday video for her.
+- **Veneration of artifacts.** At a Glenn Youngkin rally hosted by [[Steve Bannon]] in October 2021, an emcee called an attendee onstage carrying "an American flag that was carried at the peaceful rally with Donald J. Trump on January 6"; the audience recited the Pledge of Allegiance to the relic flag.
+- **"Political prisoners" framing** for J6 detainees.
+- **Pickett's-Charge-style mythologization** — a disastrous attack mythologized as "the high water mark" of patriotic resistance.
+
+The operation has since institutionalized: the J6 Choir on the 2024 Trump campaign trail; the January 2025 inauguration-day pardons of more than 1,500 J6 defendants; Trump's repeated celebration of the rioters as patriots; the New Lost Cause's absorption of January 6 into the same mythopoeic register that previously absorbed [[M.E. Bradford]]'s Lincoln-revisionist neo-Confederate project. Graham's warning ("lost causes have a pernicious tendency to be less lost than we might hope") has been substantially borne out.
+
+The wiki's structural reading: January 6 has not been expelled from American conservatism; it has been canonized within it — the same operation by which an earlier conservative movement managed [[Robert Welch]] (kept the politics, ditched the personality), now carried out in the cultural-mythopoeic key. See [[Counterrevolution]].
 
 ---
 

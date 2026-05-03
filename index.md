@@ -65,6 +65,15 @@
 - [[Steve Bannon]] — Breitbart; Trump's chief strategist; "Leninist"; NatCon bridge; *War Room*
 - [[Tucker Carlson]] — Fox News host (fired 2023); "The End of Men" documentary; Manosphere amplifier
 - [[Viktor Orbán]] — Hungary PM; "illiberal democracy" model; NatCon icon; Pappin took job at his think tank
+- [[William F. Buckley Jr.]] — *National Review* founder (1955); patriarch of postwar fusionism; the figure whose JBS "excommunication" Dallek (2023) demolishes as myth
+- [[Robert Welch]] — JBS founder (1958); Eisenhower-as-communist conspiracist; the figure Buckley sacrificed in 1961–65
+- [[Barry Goldwater]] — Arizona senator; 1964 GOP nominee; *Conscience of a Conservative*; Palm Beach 1962; "extremism is no vice"; first political apostle of fusionism
+- [[Frank Meyer]] — *NR* senior editor; *In Defense of Freedom* (1962); intellectual architect of fusionism; ex-CP organizer; "reason operating within tradition"
+- [[Matthew Dallek]] — political historian; *Birchers* (2023); the wiki's principal source for the revisionist Buckley/Birch account [stub]
+- [[Rick Perlstein]] — historian; *Before the Storm* (2001), *Nixonland* (2008), *The Invisible Bridge* (2014), *Reaganland* (2020); 2017 self-reckoning conceded the "respectable rise" framework was too narrow [stub]
+- [[Wilson Carey McWilliams]] — Rutgers political theorist; communitarian; *The Idea of Fraternity in America* (1973); Deneen's mentor [stub]
+- [[L. Brent Bozell Jr.]] — Buckley's Catholic brother-in-law; ghostwrote *Conscience of a Conservative*; 1962 anti-fusionist essay = direct ancestor of postliberalism; *Triumph* magazine
+- [[Ronald Reagan]] — 40th US President (1981–1989); master fusionist; the figure both the New Right and the older establishment claim — for opposite reasons
 - [[Yoram Hazony]] — Edmund Burke Foundation; NatCon organizer; *The Virtue of Nationalism* (2018)
 
 ---
@@ -119,6 +128,15 @@
 - [[The Flight 93 Election]] — Michael Anton 2016; catastrophism; vote Trump or the plane crashes
 - [[Tyranny, Inc.]] — Ahmari 2023; working-class economics; unions; break with integralists on freedom
 - [[Why Liberalism Failed]] — Deneen 2018; liberalism self-destructs; founding postliberal diagnostic text
+- [[Debunking a Longstanding Myth About William F. Buckley]] — Matthew Dallek (*Politico*, 2023, from *Birchers*); demolishes the Buckley-purge narrative; Buckley sacrificed Welch but not Bircher politics
+- [[Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party]] — Erick Trickey (*WaPo*, 2021); preserved as the canonical "purge" narrative the wiki rejects
+- [[The Conservative Consensus]] — Lee Edwards (Heritage, 2007); canonical pre-MAGA Heritage self-portrait of fusionism; the frame the same institution under Roberts has now abandoned
+- [[The Conscience of a Conservative]] — Goldwater 1960, ghostwritten by Bozell; founding political manifesto of postwar American fusionism (3.5M copies)
+- [[America Is a Republic, Not a Democracy]] — George Thomas (*Atlantic*, 2020); rebuttal of the Claremont/MAGA "republic not democracy" formula; cites Madison, Hamilton, Lincoln on majority rule
+- [[I Don't Want to Violently Overthrow the Government]] — Ian Ward (*Politico*, 2023); long-form Deneen profile; primary source for "common-good conservatism," "aristopopulism," "Party of Order/Progress," and Field's "illiberal constitutionalism"
+- [[The New Lost Cause]] — David Graham (*Atlantic*, 2021); January 6 as Confederate-Lost-Cause-style mythopoeia (Ashli Babbitt martyrology, J6 flag veneration)
+- [[I Thought I Understood the American Right]] — Rick Perlstein (*NYT Magazine*, 2017); historiographical self-reckoning by the historian whose *Before the Storm* helped build the "respectable rise" consensus
+- [[Democracy Faces a Reactionary Counter-Mobilization]] — Thomas Zimmer (Substack, 2022); analytical vocabulary: "reactionary counter-mobilization against egalitarian multiracial pluralistic democracy"
 
 ---
 
@@ -142,6 +160,8 @@
 - [[Heritage Foundation]] — Roberts president since 2021; Project 2025; Schedule F; CPI ecosystem
 - [[Hillsdale College]] — Arnn president; Imprimis; online courses; charter schools; 1776 Curriculum; "Two Hillsdales"
 - [[Intercollegiate Studies Institute]] — founded 1953; Burtka turn 2020; 2023 summit (Eastman, Hazony, Anton, George)
+- [[James Madison Program]] — Princeton civics institute directed by Robert P. George; postdoc pipeline for conservative Catholic intellectuals; hosted Vermeule's 2019 Schmitt speech [stub]
+- [[John Birch Society]] — Welch-founded (1958) anti-communist conspiracist organization; the test case for whether the conservative movement ever truly purged its fringe
 - [[IM-1776]] — Hard Right magazine founded 2020; Granza editor (Italy→Hungary); Rufo manifesto Jan 2024; first post reviewed BAM
 - [[Journal of American Greatness]] — anonymous proto-Trumpist blog 2016; Pappin as "Manlius Capitolinus"
 - [[Postliberal Order]] — Substack founded Feb 2022; Vermeule/Deneen/Pappin/Pecknold; coincided with CGC publication
