@@ -2,8 +2,8 @@
 title: Michael Anton
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/The Flight 93 Election.md]
-updated: 2026-04-25
+sources: ["Raw/Furious Minds.pdf", "Clippings/The Flight 93 Election.md", "Clippings/The Shaming of the Never Trumpers - The Rush Limbaugh Show.md"]
+updated: 2026-05-04
 ---
 
 # Michael Anton
@@ -20,7 +20,7 @@ Michael Anton is a West Coast Straussian and Claremonter who became the most pro
 
 He wrote for the [[Journal of American Greatness]], an anonymous blog (discussed in Chapter 3 of *Furious Minds*) that developed Trumpist intellectual arguments before Anton became publicly identified.
 
-In September 2016, under the pseudonym "Publius Decius Mus," he published [[The Flight 93 Election]] in the *Claremont Review of Books*. The essay went viral after Rush Limbaugh read it on air. After Trump won, Anton's identity was revealed in *The Weekly Standard*. In January 2017 he joined the Trump administration's National Security Council (in an equivalent position to Ben Rhodes under Obama).
+In September 2016, under the pseudonym "Publius Decius Mus," he published [[The Flight 93 Election]] in the *Claremont Review of Books*. The essay went viral after [[Rush Limbaugh]] read it on air on September 7, 2016 — *the day after* publication. The same-day amplification (documented in [[The Shaming of the Never Trumpers]]) is the wiki's load-bearing case of the [[Claremont Institute]]→Limbaugh→mass-conservative-audience pipeline functioning in real time. After Trump won, Anton's identity was revealed in *The Weekly Standard*. In January 2017 he joined the Trump administration's National Security Council (in an equivalent position to Ben Rhodes under Obama).
 
 ---
 
@@ -74,3 +74,6 @@ Field acknowledges that *The Flight 93 Election* made a "positive analytical cas
 - [[West Coast Straussianism]] — his philosophical school
 - [[2016 Election]] — the occasion of his most famous essay
 - [[January 6 2021]] — the downstream consequence of his Stop the Steal arguments
+- [[Rush Limbaugh]] — the September 7, 2016 amplifier
+- [[The Shaming of the Never Trumpers]] — Limbaugh's broadcast transcript
+- [[Angelo Codevilla]] — Anton's named structural antecedent

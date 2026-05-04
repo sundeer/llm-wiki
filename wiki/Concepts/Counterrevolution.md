@@ -2,8 +2,8 @@
 title: Counterrevolution
 type: concept
 tags: []
-sources: [Clippings/Conservatives or Counterrevolutionaries?.md, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, "Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md"]
-updated: 2026-05-03
+sources: ["Clippings/Conservatives or Counterrevolutionaries?.md", "Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md", "Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/The Republican National Convention That Shocked the Country.md", "Clippings/The Shaming of the Never Trumpers - The Rush Limbaugh Show.md", "Clippings/How Jackie Robinson Helped Defeat a Trump-Like Candidate.md", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md"]
+updated: 2026-05-04
 ---
 
 # Counterrevolution
@@ -29,6 +29,28 @@ The engine that converts conservatism into counterrevolution is **catastrophism*
 [[The Flight 93 Election]] (Michael Anton, 2016) is the purest expression of this logic: vote Trump or the plane crashes. If you believe the plane is already going down, storming the cockpit isn't counterrevolution — it's survival. The catastrophist frame *licenses* whatever means are necessary.
 
 The Claremont Institute has been catastrophism's institutional home. As [[Thomas Klingenstein]] framed it: "If it's true that the country is as divided as we think it is, and if the situation is as dire... if you're actually in a war, even if it's a cold war, you behave differently." The catastrophist premise generates the wartime conclusion.
+
+---
+
+## The 1964 RNC as First Counterrevolutionary Moment
+
+The wiki treats the [[1964 Republican National Convention]] as the *first* visible counterrevolutionary moment in postwar Republican politics — *not* the 1955 founding of *NR* (an intellectual project), nor the [[The Conscience of a Conservative|*Conscience of a Conservative*]] publication (a manifesto), but the convention itself, where the temperamental signature appears in operational form: rage at media (Eisenhower attacking the press; "broadcast from Moscow" hostility to NBC), refusal to disavow extremists (the rejection of Hugh Scott's anti-extremism plank, the booing of Rockefeller), the conspiracist frame (Schlafly's "secret kingmakers"), and the catastrophist self-understanding ("Glorious Disaster"). The *temperament* is what is conserved across decades; the policy content varies.
+
+[[Jackie Robinson]]'s 1964 diagnosis is, in this regard, the wiki's earliest articulation of the Counterrevolution thesis: "If Goldwater has been defeated, but Goldwaterism remains triumphant in GOP councils, America faces a difficult future." See [[How Jackie Robinson Helped Defeat a Trump-Like Candidate]].
+
+[[The Republican National Convention That Shocked the Country|Holden 2024]] traces the transmission directly: 1964 Cow Palace → 1965 NYC pro-war street violence → 1970 Hard Hat Riot → Newt Gingrich's 1980s–90s GOPAC vocabulary ("sick, pathetic, lie, anti-flag, traitors") → 2016 Trump rallies → Oath Keepers/Three Percenters/Proud Boys.
+
+---
+
+## The Limbaugh Vernacular
+
+[[Rush Limbaugh|Limbaugh]]'s September 7, 2016 broadcast (per [[The Shaming of the Never Trumpers]]) supplies the cleanest single statement of the Counterrevolution thesis in popular register: "Conservatism no longer applies. We're way past that." Limbaugh's gloss on Anton's [[The Flight 93 Election]] makes explicit what Anton's piece states only obliquely: that the existing institutions of mainstream conservatism are not merely inadequate but *complicit*, and that the Counterrevolution requires repudiating them along with the broader liberal order. The wiki reads this as the *vernacular* version of Tait's later academic argument.
+
+---
+
+## The Iberian Continuity
+
+Per [[Iberian Vistas]] (Zúquete & Hawley, 2025): the postwar [[National Review|*NR*]] circle's admiration for [[Francisco Franco|Franco]] and [[António Salazar|Salazar]] — and the contemporary postliberal revival of the same admiration — is itself a counterrevolutionary thread. [[Thomas Molnar]]'s *The Counter-Revolution* (1969) supplies a self-conscious Catholic articulation: "counter-revolution" as positive substantive politics aimed at restoring proper hierarchical order. The contemporary American postliberal version (Pappin's corporatism, Vermeule's administrative-state capture, Haywood's "Foundationalism") is recognizably the same project at a 60-year remove.
 
 ---
 
@@ -84,3 +106,9 @@ This means Trump functions as a lowest-common-denominator unifier for counterrev
 - [[I Thought I Understood the American Right]] — Perlstein's self-reckoning; the historian of the "respectable rise" concedes the framework was too narrow
 - [[Democracy Faces a Reactionary Counter-Mobilization]] — Zimmer; vocabulary upgrade ("counter-mobilization" rather than "backlash"; "reactionary" rather than "conservative")
 - [[The New Lost Cause]] — Graham; the cultural-mythopoeic mechanism by which January 6 is being absorbed rather than expelled
+- [[1964 Republican National Convention]] — first visible counterrevolutionary moment
+- [[Jackie Robinson]] — earliest articulator of the thesis
+- [[The Shaming of the Never Trumpers]] — Limbaugh's vernacular version
+- [[The Republican National Convention That Shocked the Country]] — Holden's transmission map
+- [[Iberian Vistas]] — the Iberian-counterrevolutionary thread
+- [[Thomas Molnar]] — *The Counter-Revolution* (1969)

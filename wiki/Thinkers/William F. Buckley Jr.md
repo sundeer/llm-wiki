@@ -2,8 +2,8 @@
 title: William F. Buckley Jr.
 type: thinker
 tags: []
-sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md"]
-updated: 2026-05-03
+sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md", "Clippings/The Republican National Convention That Shocked the Country.md"]
+updated: 2026-05-04
 ---
 
 # William F. Buckley Jr. (1925–2008)
@@ -58,6 +58,20 @@ What Buckley *did* successfully police — open antisemitism in *NR*'s pages, th
 
 ---
 
+## The Iberian Admiration
+
+Per [[Iberian Vistas]] (Zúquete & Hawley, 2025): Buckley's relationship to Catholic-authoritarian Iberia was substantially deeper than the standard postwar-conservative biography records.
+
+- **Spanish was Buckley's first language.** His father had oil interests in Mexico; the Buckley household was Hispanophone before it was Anglophone. Buckley maintained a love of Spanish language and culture throughout his life.
+- **Sustained Franco apologetics in *NR*.** 1957: "General Franco is an authentic national hero… [who] wrest[ed] Spain out of the hands of visionaries, ideologues, Marxists and nihilists." 1981: "Say what you like about Franco, the Spanish people — those of them who were willing to let their political appetites hibernate — did well. They prospered economically — all classes of Spaniards. And the peace was longer under Franco than at any time in Spanish history."
+- **Salazar.** 1958: "We do not despise Salazar for using force to keep his highly benevolent regime in power." Hunter College debate (1958): "There are many more allusions, on college campuses, to the fact that Salazar governs Portugal undemocratically than to the fact that he governs it well."
+- **Anti-decolonization.** 1962, traveling in Mozambique, berated Adlai Stevenson for the "inconceivable" belief that "Mozambique natives would be better off without the Portuguese than with them."
+- **The 1965 NYC Fifth Avenue pro-war march.** Per [[The Republican National Convention That Shocked the Country|Holden]]: Buckley marched alongside longshoremen and Medal of Honor winners in the October 1965 march that beat antiwar protesters; bystander Murray Rothfield called the "Buckley goons… Brown Shirts." The march is the wiki's clearest single instance of Buckley operating in personal proximity to organized political violence.
+
+The wiki's structural reading: Buckley's mature anti-decolonization, anti-democratic, Catholic-authoritarian-tolerant political imagination is not a *deviation* from his fusionist editorship of *NR* — it is the substantive Catholic-traditionalist *core* of which fusionism was the public-facing strategic frame. See [[Iberian Vistas]] for the academic version of this claim.
+
+---
+
 ## Status in the New Right
 
 Contemporary New Right thinkers treat Buckley with ambivalence:
@@ -81,3 +95,9 @@ The 2025 [[Heritage Foundation]] under [[Kevin Roberts]] — which welcomed [[Tu
 - [[Heritage Foundation]] — the fusionist-era institution that has now broken with Buckley's mode
 - [[Debunking a Longstanding Myth About William F. Buckley]]
 - [[Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party]]
+- [[Iberian Vistas]] — Buckley's Iberian admiration documented
+- [[Francisco Franco]]
+- [[António Salazar]]
+- [[National Review]] — institutional vehicle
+- [[Triumph]] — Bozell's Catholic-theocratic alternative
+- [[The Republican National Convention That Shocked the Country]] — 1965 NYC march

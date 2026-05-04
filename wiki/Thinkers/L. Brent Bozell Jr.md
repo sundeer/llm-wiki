@@ -2,8 +2,8 @@
 title: L. Brent Bozell Jr.
 type: thinker
 tags: []
-sources: ["Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md"]
-updated: 2026-05-03
+sources: ["Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md"]
+updated: 2026-05-04
 ---
 
 # L. Brent Bozell Jr. (1926–1997)
@@ -27,7 +27,8 @@ Bozell is the *direct* precursor of contemporary postliberalism. Vermeule's [[Co
 - **Ghostwriter of *The Conscience of a Conservative* (1960).** Goldwater's name is on the cover; the prose, structure, and Catholic-natural-law-inflected framing are Bozell's. The book sold 3.5 million copies and became the most influential political manifesto of the postwar American right.
 - **Critic of fusionism.** In a 1962 *NR* essay (covered by Lee Edwards's [[The Conservative Consensus]]) Bozell argued: "the purpose of politics… is not the promotion of freedom but the promotion of virtue and the building of 'a Christian civilization.' The story of how the free society has come to take priority over the good society is the story of the decline of the West." This is the first articulation in the postwar conservative movement of the position [[Patrick Deneen]] would systematize in *Why Liberalism Failed* (2018) and [[Adrian Vermeule]] in [[Common Good Constitutionalism]] (2022).
 - **Conversion to Catholicism** in the late 1950s; became increasingly traditionalist.
-- **Founded *Triumph* magazine (1966).** Explicitly Catholic-traditionalist, anti-fusionist, anti-Vatican II. Bozell led an action where *Triumph* staff stormed an abortion clinic, the kind of "use the body, witness in the streets" politics that prefigures Ahmari's confrontational mode. *Triumph* folded in 1976.
+- **Lived in Franco's Spain** in the late 1950s/early 1960s with his Yale teacher [[Willmoore Kendall]]. Per [[Iberian Vistas]] (Zúquete & Hawley, 2025), the Spanish residence was formative — both Bozell and Kendall returned more committed to substantively Catholic political theory and less committed to Buckley/Meyer fusionism. Bozell's *Triumph* program is recognizably an attempt to import the Spanish-Catholic-traditionalist political-theological synthesis to America.
+- **Founded *[[Triumph]]* magazine (1966).** Explicitly Catholic-traditionalist, anti-fusionist, anti-Vatican II. Sustained admirer of [[António Salazar]] (the *Estado Novo* corporatist Catholic regime; *Triumph* covered Salazar repeatedly) and [[Francisco Franco|Franco]]. Bozell led an action where *Triumph* staff stormed an abortion clinic, the kind of "use the body, witness in the streets" politics that prefigures Ahmari's confrontational mode. *Triumph* folded in 1976.
 - **Spent his last decades** in mental and physical decline; never returned to the political mainstream.
 
 ---
@@ -65,3 +66,8 @@ The wiki preserves the lineage as one of its sharper findings: the 2010s–2020s
 - [[Adrian Vermeule]] — [[Common Good Constitutionalism]] is Bozell's argument applied to law
 - [[Sohrab Ahmari]] — confrontational Catholic-traditionalist style with *Triumph* echoes
 - [[The Conservative Consensus]] — Edwards's 2007 source for the Bozell-Meyer debate
+- [[Triumph]] — the magazine he founded
+- [[Willmoore Kendall]] — Yale teacher; lived together in Franco's Spain
+- [[Iberian Vistas]] — documents the Iberian connection
+- [[Francisco Franco]]
+- [[António Salazar]]

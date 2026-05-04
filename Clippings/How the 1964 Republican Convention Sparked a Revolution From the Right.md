@@ -1,0 +1,44 @@
+---
+title: "How the 1964 Republican Convention Sparked a Revolution From the Right"
+source: "https://www.smithsonianmag.com/history/1964-republican-convention-revolution-from-the-right-915921/"
+author:
+  - "[[Rick Perlstein]]"
+published: 2008-07-31
+created: 2026-05-03
+description: "At the ugliest of Republican conventions since 1912, entrenched moderates faced off against conservative insurgents"
+tags:
+  - "clippings"
+---
+![Goldwater signs at the 1964 Republican Convention](https://th-thumbnailer.cdn-si-edu.com/71mUHhrsp7EVEb9ZUgJNBkiWbUY=/600x400/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/08/2a/082a3477-241c-4bd9-916c-cea2f70c19c6/gettyimages-515097600.jpg)
+
+Delegates to the Republican National Convention stage a huge demonstration for Senator Barry Goldwater, after his name was placed in nomination for the Presidency. Bettmann / Getty Images
+
+There were only three small elevators at the Mark Hopkins, the splendid old San Francisco hotel that served as headquarters for contenders Barry Goldwater and William Scranton during the 1964 Republican National Convention. The wait that hot July week could stretch to 45 minutes. The day Goldwater was to accept the nomination at the Cow Palace in nearby Daly City, he caught a service elevator in the hotel kitchen.
+
+That was where a reporter cornered the Arizona senator and asked him whether the Democrats would campaign on the fact that nearly 70 percent of the convention delegates, acting on his campaign's instructions, had voted down a platform plank affirming the constitutionality of the recently passed Civil Rights Act. "After Lyndon Johnson—the biggest faker in the United States? He opposed civil rights until this year. Let them make an issue of it," Goldwater snapped back. "He's the phoniest individual who ever came around."
+
+Goldwater's tone reflected the tenor of this ugliest of Republican conventions since 1912, as entrenched moderates faced off against conservative insurgents. In an era in which a national consensus seemed to have coalesced around advancing civil rights, containing Communism and expanding government, the moderates believed they had to win to preserve the Republican Party. The conservatives—who wanted to contain the role of the federal government and roll back Communism—believed they were saving not just the party but Western civilization.
+
+The logy Mark Hopkins elevators gave the insurgents, flooding into town for what Goldwater biographer Robert Alan Goldberg called the "Woodstock of the right," at least two chances a day to bait Chet Huntley and David Brinkley, anchors of NBC's nightly newscast—and crypto-liberals, according to their harassers. "You know, these nighttime news shows sound to me like they're being broadcast from Moscow," one conservative observed to another on the way down, loud enough for the two newsmen to hear. Brinkley forbade his son, Alan, to show his NBC insignia, except to security.
+
+The volume of right-wing rage at the media was novel at this Republican convention. Unprecedented, too, was the attention focused on the issue of television coverage. The convention was the first since CBS and NBC had expanded their nightly newscasts from 15 minutes to 30 minutes, and the first since the assassination and funeral of President John F. Kennedy redefined the bond between television and politics. In 1960, there were about as many journalists, both print and broadcast, as delegates. Four years later, broadcasters alone outnumbered delegates two to one.
+
+As it happened, Alan Brinkley grew up to become one of the most distinguished historians of 20th-century American politics. He has written of the 1964 conventions, Republican and Democratic, as transitional—managed by politicians who were accustomed to backroom deal-making and high-pressure crowd tactics and were caught up short to learn that they were suddenly in the business of producing a TV show.
+
+And what a show the GOP convention was! Conservatives from the West, the South and the Midwest were convinced that the only way moderate "Wall Street Republicans" had been able to run away with the presidential nomination every four years was that "a few secret kingmakers in New York" conspired to steal it, as Illinois activist Phyllis Schlafly put it in a self-published book, *A Choice Not an Echo*, several hundred thousand copies of which were distributed in the summer of 1964. (Some convention delegates reported receiving more than 60 copies in the mail.) They weren't going to let it be stolen this time.
+
+Goldwater's finance chairman, Bill Middendorf, warned campaign aide Dean Burch that "the 1952 tricks will be used again": planted stories, whispering campaigns, threats, cajolery and the "shanghaiing and spiriting of delegates and alternates to distant points." Goldwater delegates were warned to be on the lookout "for unexpectedly easy companionship from new-found female friends." They were to contact the Goldwater headquarters on the 15th floor of the Mark Hopkins immediately after landing at the airport and to travel around town in pairs along pre-timed routes in radio-equipped cars. They used walkie-talkies only as back-ups, because these could be too easily tapped into—as, indeed, they had tapped into Scranton's.
+
+Bill Scranton, whose patrician family ran the Pennsylvania coal town that bore his name, seemed to comedian Dick Gregory like "the guy who runs to John Wayne for help." (Goldwater looked like a cowboy.) Scranton had entered the race as a last-minute act of noblesse oblige. "Today the nation—and indeed the world—waits to see if another proud political banner will falter, grow limp and collapse in the dust," he had said as he announced his candidacy just four weeks before the convention. "Lincoln would cry out in pain if we sold out our principles."
+
+According to a Harris Poll taken late that June, 62 percent of rank and file Republicans preferred Scranton to Goldwater, but the supposed Wall Street kingmakers were in dithering disarray. ("What in God's name has happened to the Republican Party!" muttered Henry Cabot Lodge —the party's 1960 vice presidential nominee—as he paged through the delegate list in his hotel room. "I hardly know any of these people!") The moderates' strategy was to put the Goldwaterites' perceived extremism on televised display, hoping delegates would flock to Scranton after being flooded by telegrams from outraged voters watching at home.
+
+The moderates circulated a translation of an interview Goldwater had given to a German newsmagazine, in which he was quoted as saying he would tell his generals in Vietnam, "Fellows, we made the decision to win, now it's your problem." CBS correspondent Daniel Schorr then reported, "It is now clear that Senator Goldwater's interview with *Der Spiegel* with its hard line appealing to right-wing elements in Germany was only the start of a move to link up with his opposite numbers in Germany," with Schorr basing his assertion simply on the fact that Goldwater would be vacationing after the convention at an American military installation that was, coincidentally, in the former Nazi stronghold of Bavaria. (Schorr later said he did not mean to suggest "a conscious effort" by Goldwater to connect with the German right.)
+
+Schorr's report only stirred the hornet's nest: the delegates who had trooped to the conservative Woodstock to nominate Goldwater greeted calls that they abandon him with angry defiance, and their loyalty put their candidate over the top. When Nelson Rockefeller, speaking to the assembled, advocated a platform plank denouncing extremism, galleries full of exuberant conservatives booed him. In his acceptance speech, Goldwater capped off the snub by lustily and defiantly proclaiming: "Extremism in the defense of liberty is no vice. And...moderation in the pursuit of justice is no virtue!" He raised the rafters.
+
+The "stench of fascism is in the air," Pat Brown, California's liberal Democratic governor, told the press. His view was widely shared. The political world's near unanimous judgment was that Goldwater's landslide loss to LBJ that November was a disaster for all Republicans, not just conservative Republicans.
+
+But Bill Middendorf would more accurately call his memoir of that year *A Glorious Disaster*. Out of its ashes and out of the fervent grassroots organizing that delivered Goldwater his unlikely nomination emerged a Republican Party surer of its identity and better positioned to harvest the bounty—particularly in the South—when the American mood shifted to the right during the cacophonous years that followed.
+
+**Rick Perlstein** is the author, most recently, of *Nixonland: The Rise of a President and the Fracturing of America*.

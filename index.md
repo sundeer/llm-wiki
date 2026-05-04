@@ -14,7 +14,12 @@
 
 - [[Adrian Vermeule]] — Harvard Law; Catholic integralist; Schmitt rehabilitator; "movement's high priest, simpliciter"
 - [[Allan Bloom]] — *The Closing of the American Mind* (1987); Straussian; gateway to the New Right's anti-egalitarianism
+- [[Angelo Codevilla]] — Boston U; Claremont senior fellow; "America's Ruling Class" (*American Spectator* 2010); structural antecedent of [[The Flight 93 Election]] [stub]
+- [[António Salazar]] — Portuguese PM 1932–1968; *Estado Novo* corporatist authoritarianism; the wiki's principal corporatist-administrative-state reference for postliberal political-form thinking
 - [[Carl Schmitt]] — German Nazi jurist; decisionism; friend/enemy distinction; major unacknowledged New Right resource
+- [[Charles Haywood]] — independent self-funded Hard-Right writer; *Foundationalism* project; explicit Franco/Salazar admirer
+- [[Charles J. Holden]] — historian; *Republican Populist: Spiro Agnew* (2019); author of [[The Republican National Convention That Shocked the Country]] [stub]
+- [[Christopher Roach]] — *American Greatness* contributor; "The Salazar Option" (2021) [stub]
 - [[Charles Kesler]] — Claremont Review of Books editor; West Coast Straussian; published *The Flight 93 Election*
 - [[Christopher Caldwell]] — *The Age of Entitlement* (2020); traces bad constitution to Civil Rights Act; Claremont senior fellow
 - [[Christopher DeMuth]] — AEI president emeritus; NatCon organizer; interviewed Orbán at NatCon Rome
@@ -24,11 +29,20 @@
 - [[Curtis Yarvin]] — Mencius Moldbug; neoreactionary; "The Cathedral"; techno-monarchy; Peter Thiel connection
 - [[Darren Beattie]] — Duke PhD; Trump speechwriter fired for white nationalist conference; Revolver News
 - [[David Brog]] — Edmund Burke Foundation president; ex–CUFI executive director; NatCon co-organizer with Hazony [stub]
-- [[Gladden Pappin]] — Catholic integralist; *American Affairs* co-founder; Budapest dispatch; took job at Orbán's think tank
+- [[Edmund Waldstein]] — Cistercian monk at Stift Heiligenkreuz; founding editor of *The Josias*; theologian of contemporary Catholic Integralism
+- [[Erik von Kuehnelt-Leddihn]] — Austrian Catholic monarchist; *NR* European correspondent ~1956–1990; *Liberty or Equality* (1952); the *NR* circle's most rigorous anti-democratic voice
+- [[Francisco Franco]] — Spanish dictator (1939–1975); the wiki's principal Throne-and-Altar reference for postwar conservative Iberian admiration and its 2010s–20s revival
+- [[George W. Carey]] — Georgetown political scientist; Kendall student/co-author; carrier of the populist-majoritarian anti-Lockean reading of the founding [stub]
+- [[Gladden Pappin]] — Catholic integralist; *American Affairs* co-founder; Budapest dispatch; took job at Orbán's think tank; "Corporatism for the Twenty-First Century"
+- [[Helen Andrews]] — *American Conservative* editor; *Boomers* (2021); *First Things* corporatism essay [stub]
 - [[Glenn Ellmers]] — Claremont; "The People Are Not the Country" (2021); friend/enemy applied to liberal Americans
 - [[Harry V. Jaffa]] — Claremont's founder; Lincoln scholar; two Jaffas; equality vs. natural right debate
 - [[Harvey Mansfield]] — Harvard Government 60 years; East Coast Straussian; Alamariu's dissertation committee; AEI fête July 2022
+- [[Jackie Robinson]] — Hall of Fame baseball player; lifelong Republican until 1964; "Goldwaterism remains triumphant"
+- [[James Burnham]] — *NR* senior editor 1955–1978; *The Managerial Revolution* (1941); *Suicide of the West* (1964); Cold War strategist; Iberian admirer; the structural ancestor of contemporary "ruling class" rhetoric
 - [[Jared Taylor]] — *American Renaissance* founder (1990); white-nationalist intellectual; Hard Right node; Sam Francis venue [stub]
+- [[Joseph Pearce]] — English-born Catholic biographer; *Imaginative Conservative* contributor; 2023 Spanish-Civil-War-as-Reconquista essay [stub]
+- [[Josh Abbotoy]] — New Founding managing director; "Is a Protestant Franco inevitable?" (*First Things* 2023) [stub]
 - [[Jim DeMint]] — SC Senator; Heritage president 2013–2017; first turned Heritage activist; precursor to Roberts [stub]
 - [[Joshua Tait]] — conservative intellectual historian; Substack; "Conservatives or Counterrevolutionaries?" (2024) [stub]
 - [[Laura K. Field]] — *Furious Minds* (2025); Niskanen Center; anchor author of this wiki [stub]
@@ -44,28 +58,38 @@
 - [[Josh Hammer]] — Newsweek editor; Edmund Burke Foundation; "Common Good Originalism"; Manly Originalism
 - [[Josh Hawley]] — Missouri senator; anti-tech; masculinity politics; fist-pump January 6
 - [[Julius Krein]] — *American Affairs* co-founder; early Trump intellectual; disillusionment by 2018
+- [[Kevin Phillips]] — Republican strategist; *The Emerging Republican Majority* (1969); formalized Goldwater's Deep South coalition into Nixon's Southern Strategy [stub]
 - [[Kevin Roberts]] — Heritage Foundation president since Oct 2021; Project 2025; Buchanan volunteer 1992
+- [[Louis Menand]] — Harvard; *New Yorker*; author of [[He Knew He Was Right]] (2001) [stub]
 - [[Larry P. Arnn]] — Hillsdale College president; Churchill scholar; Jaffa student; 1776 Commission co-chair
+- [[Matthew Delmont]] — Dartmouth historian; African-American politics; author of [[How Jackie Robinson Helped Defeat a Trump-Like Candidate]] [stub]
 - [[Matthew Spalding]] — Hillsdale VP / Heritage alum; executive director of the 1776 Commission [stub]
+- [[Michael Knowles]] — Daily Wire podcaster; pro-Franco Catholic-conservative voice [stub]
 - [[Leo Strauss]] — German-Jewish political philosopher; father of Straussianism; esotericism; natural right
 - [[Michael Anton]] — *The Flight 93 Election*; NSC official; Claremont; Italian suits
 - [[Nathan Pinkoski]] — Oxford PhD; James Madison Program postdoc; NatCon 3 Schmitt/Maurras/Camp of the Saints talk
+- [[Newt Gingrich]] — Speaker 1995–1999; GOPAC memo (1990); the wiki's principal transmission node between 1964-Goldwater temperament and 2016-Trump temperament [stub]
 - [[Oren Cass]] — American Compass; supply-side economics critic; worker-centered economics
 - [[Pat Buchanan]] — 1992/1996 "Culture War" campaigns; paleoconservative godfather; Trumpism's direct precursor
 - [[Patrick Deneen]] — Notre Dame; *Why Liberalism Failed*; *Regime Change*; "We have to win"; Budapest dispatch
 - [[Plato]] — (c. 428–348 BCE); author of the *Republic*; deepest ancient source for New Right anti-democratic theory; transmitted via Strauss, Bloom, and BAP
 - [[Paul Gottfried]] — Elizabethtown College; coined "alternative right" (2008); H.L. Mencken Club; paleocon patriarch
 - [[Peter Thiel]] — PayPal; Palantir; Vance patron; Yarvin connection; anti-democratic libertarian to New Right
+- [[Phyllis Schlafly]] — *A Choice Not an Echo* (1964); founder of Eagle Forum; Stop ERA campaign 1972–1982; the prototype of populist-conservative anti-elite-conspiracy framing
 - [[R.R. Reno]] — *First Things* editor; "strong gods" thesis; supported February Statement 2020
 - [[Richard Spencer]] — white nationalist; "alt-right"; NPI; Charlottesville; separated from mainstream New Right
+- [[Robert Bork]] — Yale Law; Solicitor General; failed 1987 SCOTUS nominee; wrote the 75-page constitutional concurrence Goldwater used to vote against the 1964 Civil Rights Act [stub]
 - [[Robert P. George]] — Princeton McCormick Professor; James Madison Program; Robby George; fusionist Catholic; "didn't know what time it was"
+- [[Rush Limbaugh]] — talk-radio host 1988–2021; the wiki's load-bearing transmission node between elite conservative argument and mass conservative audience; September 7, 2016 amplification of [[The Flight 93 Election]]
 - [[Ron DeSantis]] — Florida governor; anti-CRT; Stop WOKE Act; New College takeover; failed 2024 presidential run
 - [[Sohrab Ahmari]] — *Compact* co-founder; *Tyranny, Inc.*; "Unabomber Right"; broke with integralists on Orbán
 - [[Stephen Miller]] — Trump's immigration architect; anti-immigration maximalist; America First Legal
 - [[Steve Bannon]] — Breitbart; Trump's chief strategist; "Leninist"; NatCon bridge; *War Room*
+- [[Thomas Molnar]] — Hungarian-born Catholic philosopher; *NR* contributor; *The Counter-Revolution* (1969); defender of Portuguese colonialism [stub]
 - [[Tucker Carlson]] — Fox News host (fired 2023); "The End of Men" documentary; Manosphere amplifier
 - [[Viktor Orbán]] — Hungary PM; "illiberal democracy" model; NatCon icon; Pappin took job at his think tank
 - [[William F. Buckley Jr.]] — *National Review* founder (1955); patriarch of postwar fusionism; the figure whose JBS "excommunication" Dallek (2023) demolishes as myth
+- [[Willmoore Kendall]] — Yale political theorist; *Basic Symbols of the American Political Tradition* (1970); Buckley's mentor; lived in Franco's Spain; populist-majoritarian anti-Lockean reading of the founding
 - [[Robert Welch]] — JBS founder (1958); Eisenhower-as-communist conspiracist; the figure Buckley sacrificed in 1961–65
 - [[Barry Goldwater]] — Arizona senator; 1964 GOP nominee; *Conscience of a Conservative*; Palm Beach 1962; "extremism is no vice"; first political apostle of fusionism
 - [[Frank Meyer]] — *NR* senior editor; *In Defense of Freedom* (1962); intellectual architect of fusionism; ex-CP organizer; "reason operating within tradition"
@@ -137,11 +161,19 @@
 - [[The New Lost Cause]] — David Graham (*Atlantic*, 2021); January 6 as Confederate-Lost-Cause-style mythopoeia (Ashli Babbitt martyrology, J6 flag veneration)
 - [[I Thought I Understood the American Right]] — Rick Perlstein (*NYT Magazine*, 2017); historiographical self-reckoning by the historian whose *Before the Storm* helped build the "respectable rise" consensus
 - [[Democracy Faces a Reactionary Counter-Mobilization]] — Thomas Zimmer (Substack, 2022); analytical vocabulary: "reactionary counter-mobilization against egalitarian multiracial pluralistic democracy"
+- [[He Knew He Was Right]] — Louis Menand (*New Yorker*, 2001); essay-review of Perlstein's *Before the Storm*; canonical statement of the Goldwater-as-premonition thesis
+- [[How Jackie Robinson Helped Defeat a Trump-Like Candidate]] — Matthew Delmont (*Atlantic*, March 2016); Black Republican opposition to the 1964 RNC; explicit Goldwater→Trump line drawn during the 2016 primary
+- [[How the 1964 Republican Convention Sparked a Revolution From the Right]] — Rick Perlstein (*Smithsonian*, July 2008); convention as "Woodstock of the right"
+- [[The Republican National Convention That Shocked the Country]] — Charles J. Holden (*TIME*, July 2024); 60th-anniversary continuity thesis 1964→2016
+- [[Iberian Vistas]] — José Pedro Zúquete & George Hawley (*Politics, Religion & Ideology*, 2025); academic synthesis of the postwar *NR*-circle Iberian admiration and its 2010s–20s postliberal revival
+- [[The Shaming of the Never Trumpers]] — Rush Limbaugh (September 7, 2016); the broadcast amplifying [[The Flight 93 Election]] to mass audience the day after publication
+- [[We Have Not Lost Our Country]] — Rush Limbaugh (November 9, 2016); morning-after-Trump's-victory framing as ideological/Brexit-twin/anti-identity-politics
 
 ---
 
 ## Events
 
+- [[1964 Republican National Convention]] — Cow Palace, San Francisco; the convention that nominated Goldwater; the wiki's first decisive political-realignment event and the temperamental template for everything from 1965 NYC street violence to January 6
 - [[2016 Election]] — Trump's victory; the event that proved the New Right's catastrophism and catalyzed the movement
 - [[2020 Election]] — Biden defeats Trump; Trump refuses to concede; "Big Lie"; leads to January 6 [stub]
 - [[Charlottesville 2017]] — Unite the Right rally; Hard Right violence; forced mainstream New Right to distance from white nationalism
@@ -162,9 +194,11 @@
 - [[Intercollegiate Studies Institute]] — founded 1953; Burtka turn 2020; 2023 summit (Eastman, Hazony, Anton, George)
 - [[James Madison Program]] — Princeton civics institute directed by Robert P. George; postdoc pipeline for conservative Catholic intellectuals; hosted Vermeule's 2019 Schmitt speech [stub]
 - [[John Birch Society]] — Welch-founded (1958) anti-communist conspiracist organization; the test case for whether the conservative movement ever truly purged its fringe
+- [[National Review]] — Buckley's flagship 1955 magazine; institutional spine of postwar conservatism; venue for fusionism, Iberian admiration, JBS-management; "Against Trump" 2016 break
 - [[IM-1776]] — Hard Right magazine founded 2020; Granza editor (Italy→Hungary); Rufo manifesto Jan 2024; first post reviewed BAM
 - [[Journal of American Greatness]] — anonymous proto-Trumpist blog 2016; Pappin as "Manlius Capitolinus"
 - [[Postliberal Order]] — Substack founded Feb 2022; Vermeule/Deneen/Pappin/Pecknold; coincided with CGC publication
 - [[Edmund Burke Foundation]] — Hazony's NatCon organizing institution; David Brog president; DeMuth conference chair [stub]
 - [[Project 2025]] — Heritage Foundation's 920-page governing blueprint (2023); Schedule F; ~80 partner orgs including Claremont
+- [[Triumph]] — Bozell's traditionalist Catholic magazine (1966–1976); explicit Catholic-theocratic alternative to *NR* fusionism; failed institutional precursor of contemporary postliberalism
 - [[Witherspoon Institute]] — Princeton-adjacent conservative research institute (2003); *Public Discourse*; Robby George orbit; natural-law/legal infrastructure [stub]

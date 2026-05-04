@@ -3,8 +3,8 @@ title: 2016 US Presidential Election
 type: event
 date: 2016-11-08
 tags: []
-sources: [Raw/Furious Minds.pdf]
-updated: 2026-04-25
+sources: ["Raw/Furious Minds.pdf", "Clippings/The Shaming of the Never Trumpers - The Rush Limbaugh Show.md", "Clippings/We Have Not Lost Our Country - The Rush Limbaugh Show.md"]
+updated: 2026-05-04
 ---
 
 # 2016 US Presidential Election
@@ -35,6 +35,15 @@ The 2016 election is the moment when the New Right's long intellectual project c
 
 ---
 
+## The Limbaugh Transmission
+
+The 2016 election is also the documented case of the [[Claremont Institute]] → [[Rush Limbaugh|Limbaugh]] → mass-conservative-audience pipeline operating in real time. Two transcripts in the wiki:
+
+- **[[The Shaming of the Never Trumpers]]** (September 7, 2016) — Limbaugh devotes most of an episode to reading and amplifying [[The Flight 93 Election]] *the day after publication*, crashing Claremont's website. Limbaugh's gloss: "Conservatism no longer applies. We're way past that." Names [[Angelo Codevilla]]'s 2010 *American Spectator* "America's Ruling Class" as the structural antecedent.
+- **[[We Have Not Lost Our Country]]** (November 9, 2016) — morning-after-Trump's-victory framing as (a) *ideological* repudiation of "Big Government," (b) Brexit-twin transatlantic event, (c) repudiation of Democratic identity-group politics. The wiki's clearest single artifact of the New Right's *real-time self-understanding* of 2016 as ideological-civilizational rather than the contemporaneously-popular media frame of "economic anxiety."
+
+---
+
 ## The Intellectual Precursors
 
 The 2016 election did not come from nowhere. The intellectual infrastructure that made it possible had been building for decades:
@@ -54,3 +63,7 @@ The 2016 election did not come from nowhere. The intellectual infrastructure tha
 - [[Steve Bannon]] — the campaign strategist
 - [[Paleoconservatism]] — the earlier populist-nationalist template
 - [[2020 Election]] — the sequel; see [[January 6 2021]]
+- [[Rush Limbaugh]] — the transmission node
+- [[The Shaming of the Never Trumpers]] — September 7 broadcast
+- [[We Have Not Lost Our Country]] — November 9 broadcast
+- [[Angelo Codevilla]] — structural antecedent

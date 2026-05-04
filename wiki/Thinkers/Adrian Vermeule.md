@@ -2,8 +2,8 @@
 title: Adrian Vermeule
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/Integration from Within.md]
-updated: 2026-04-26
+sources: ["Raw/Furious Minds.pdf", "Clippings/Integration from Within.md", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md"]
+updated: 2026-05-04
 ---
 
 # Adrian Vermeule
@@ -107,6 +107,12 @@ Field's summary: Vermeule "sees liberals and liberalism (but not Schmitt) as the
 
 ---
 
+## The Salazar Reference
+
+Per [[Iberian Vistas]] (Zúquete & Hawley, 2025): in his integralist-strategy writing on *The Josias*, Vermeule has cited Salazar's Portugal as exemplary of bureaucracy flourishing in an illiberal regime — and argued the integralist focus should be on "executive-type bureaucracies rather than on parliamentary-democratic institutions *per se*." This is the wiki's load-bearing data point for the structural reading: Vermeule's "[[Common Good Constitutionalism]] + administrative state capture" program has [[António Salazar|Salazar]]'s *Estado Novo* as its closest 20th-century real-world analogue. Where his colleague [[Edmund Waldstein|Waldstein]] (the integralist theologian whose work Vermeule's CGC is theologically downstream of) has been *critical* of postliberal Salazar admiration as a "veneer of Catholic Social Teaching without the reality," Vermeule's interest is precisely the *administrative-state* dimension Waldstein discounts.
+
+---
+
 ## European Connections
 
 Vermeule's international allegiances reveal the depth of his anti-liberal commitments:
@@ -144,3 +150,7 @@ The irony: Vermeule's body of scholarship consistently defends the legitimacy of
 - [[Heritage Foundation]] — his work dovetails with Project 2025's administrative state seizure
 - [[Viktor Orbán]] — admirer; visited Hungary 2021
 - [[Postliberal Order]] — Substack he co-writes with Deneen, Pappin, Pecknold
+- [[Iberian Vistas]] — documents the Salazar reference
+- [[António Salazar]] — administrative-state analogue
+- [[Edmund Waldstein]] — integralist theologian Vermeule is downstream of
+- [[Triumph]] — the prior American attempt at the program

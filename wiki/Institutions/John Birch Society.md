@@ -2,8 +2,8 @@
 title: John Birch Society
 type: institution
 tags: []
-sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md"]
-updated: 2026-05-03
+sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/The Republican National Convention That Shocked the Country.md"]
+updated: 2026-05-04
 ---
 
 # John Birch Society
@@ -38,6 +38,12 @@ The JBS is best known to political history as the case study in mainstream-conse
 1. **1962 Palm Beach meeting.** Buckley, [[Russell Kirk]], and [[Barry Goldwater]] meet at the Breakers; agree on a strategy of attacking Welch personally while preserving the rank-and-file.
 2. **April 1961 / February 1962** *National Review* editorials: Welch's views "far removed from common sense"; Goldwater's accompanying letter denies Welch represents the membership.
 3. **August–October 1965**: Buckley's syndicated column attacks *American Opinion*'s civil-rights smears; subscriber backlash; Buckley doubles down. Reagan declares "I am not a member" (September 1965); Dirksen and Ford jointly denounce the JBS; *NR* runs a 14-page anti-Bircher special. Goldwater calls for conservatives to resign from the JBS unless Welch does. Bogus's biography: "no fig leaf of respectability remained… steep decline."
+
+### The 1965 Membership Surge (Holden 2024)
+
+Per [[The Republican National Convention That Shocked the Country|Holden]]: while Buckley was conducting his October 1965 *NR* anti-Bircher campaign, JBS membership was *flourishing*. The November 1965 *NYT* reported the surge; the JBS publicity director added Selma sheriff James G. Clark — who had directed the violence on John Lewis at the Edmund Pettus Bridge that March — to its lecture circuit. The October 1965 ADL reported a sharp rise in KKK membership outside the South in the same month.
+
+The Holden synthesis is wiki-significant: the *visible* mainstream-conservative repudiation of the JBS coincided with the *operational* expansion of the JBS and the parallel KKK surge. The 1965 NYC Fifth Avenue pro-war march (Buckley alongside longshoremen and Medal of Honor winners; "Bomb Hanoi" floats; antiwar protestors beaten unconscious) is the same coalition arc. The wiki reads this as confirmation that the *temperamental* and *operational* Bircher-adjacent right was not contracting in 1965 — the brand-management performance ran parallel to a substantively larger movement.
 
 The revisionist narrative ([[Debunking a Longstanding Myth About William F. Buckley]] / Dallek 2023, citing Schlozman and Rosenfeld):
 

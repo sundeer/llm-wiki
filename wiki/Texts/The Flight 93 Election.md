@@ -2,8 +2,8 @@
 title: "The Flight 93 Election"
 type: text
 tags: [primary-source, foundational]
-sources: [Clippings/The Flight 93 Election.md]
-updated: 2026-04-25
+sources: ["Clippings/The Flight 93 Election.md", "Clippings/The Shaming of the Never Trumpers - The Rush Limbaugh Show.md"]
+updated: 2026-05-04
 ---
 
 # The Flight 93 Election
@@ -52,8 +52,19 @@ Anton argues Trump was the only candidate who articulated all three correctly an
 
 - Defined Trumpism intellectually before Trump could define it himself
 - Served as the intellectual bridge between the Claremont Institute's West Coast Straussianism and raw populist politics
-- Rush Limbaugh's endorsement gave it a mass audience of ~15 million listeners
+- [[Rush Limbaugh]]'s same-day endorsement gave it a mass audience of ~15 million listeners — see [[The Shaming of the Never Trumpers]] for the broadcast transcript and the wiki's structural reading of the Claremont→Limbaugh→mass-audience pipeline
 - Field calls it "apocalyptic and conspiratorial" while acknowledging it made a "positive analytical case for Trump" that other conservatives had avoided
+
+### The Limbaugh Amplification (September 7, 2016)
+
+The wiki's structural reading: *Flight 93*'s influence was a function of Limbaugh's same-day broadcast as much as of the essay's content. Limbaugh devoted most of an episode to reading and amplifying the piece, crashing Claremont's website in the process. Limbaugh credited himself with coining "Washington Generals" before Anton (a borrowing the transcript appears to confirm) and named [[Angelo Codevilla]]'s 2010 *American Spectator* essay "America's Ruling Class" as the structural antecedent. The full transmission lineage:
+
+> [[Angelo Codevilla|Codevilla]] (2010, *American Spectator*) — ruling-class/country-class
+> → [[Rush Limbaugh|Limbaugh]] (2010-onward, talk radio) — popularization
+> → [[Michael Anton|Anton]] (2016, *CRB*) — catastrophist culmination
+> → Trump (2016-onward) — political incarnation
+
+The transcript ([[The Shaming of the Never Trumpers]]) is the wiki's primary documentary evidence for this pipeline operating in real time.
 
 **On the "Flight 93" logic:** The essay established a template that would recur throughout the New Right — catastrophism, the claim that existing institutions are irredeemably corrupt, and the conclusion that extreme action (supporting an imperfect, even dangerous figure) is therefore justified. This logic reappeared in the Claremont Institute's "The Fight is Now" in November 2020.
 
@@ -77,3 +88,7 @@ Anton argues Trump was the only candidate who articulated all three correctly an
 - [[Harry V. Jaffa]] — Anton's intellectual hero
 - [[Fusionism]] — the Reagan/Buckley establishment Anton is attacking
 - [[2016 Election]] — the event the essay was written for
+- [[The Shaming of the Never Trumpers]] — Limbaugh's September 7 broadcast amplifying the piece
+- [[We Have Not Lost Our Country]] — Limbaugh's November 9 post-victory companion
+- [[Rush Limbaugh]] — the transmission node
+- [[Angelo Codevilla]] — structural antecedent

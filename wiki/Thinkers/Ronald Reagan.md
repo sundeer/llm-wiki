@@ -2,8 +2,8 @@
 title: Ronald Reagan
 type: thinker
 tags: []
-sources: ["Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md"]
-updated: 2026-05-03
+sources: ["Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/He Knew He Was Right.md"]
+updated: 2026-05-04
 ---
 
 # Ronald Reagan (1911–2004)
@@ -23,7 +23,7 @@ Reagan is the wiki's reference point for two reasons:
 
 ## The Goldwater-to-Reagan Pipeline
 
-Reagan became a national political figure overnight with his 27 October 1964 televised speech for [[Barry Goldwater]], "A Time for Choosing." The speech showed Reagan was a more polished communicator of the fusionist message than the candidate himself. Two years later he won the California governorship; fourteen years after that, the presidency.
+Reagan became a national political figure overnight with his 27 October 1964 televised speech for [[Barry Goldwater]], "A Time for Choosing." Per [[He Knew He Was Right|Menand]]: "Reagan attacked the big-government policies of Franklin Roosevelt in what was in every other way a complete imitation of a Roosevelt fireside chat. He even used the New Deal phrase 'rendezvous with destiny' to apostrophize the conservative crusade to end the era of New Deal-style government. He made small government sound just as warm and caring as big government." The wiki's structural reading: the personality difference between Goldwater (blunt, combative, philosophically doctrinaire) and Reagan (actor, optimistic, rhetorically mobile) is what bridged the [[1964 Republican National Convention|1964 debacle]] to the 1980 landslide — the *political program* was substantially identical. Two years after the 1964 telecast Reagan won the California governorship; fourteen years after that, the presidency.
 
 Reagan's 1965 letter to Goldwater, after winning the GOP gubernatorial nomination: "Had it not been for you and Barry I would not have won this nomination." And later: "You set the pattern…. I have tried to do the same and have found the people more receptive because they've had a chance to realize there is such a thing as truth." This is the textual canon of fusionist political succession.
 
@@ -87,3 +87,5 @@ Despite the indictment, the New Right inherits substantial Reagan rhetorical inf
 - [[Pat Buchanan]] — Reagan's communications director; first major paleocon revolt against Reaganite fusionism
 - [[Sam Francis]] — sharpest ideological critic of Reagan-era fusionism
 - [[MAGA New Right]] — the post-Reagan condition
+- [[1964 Republican National Convention]] — the event "A Time for Choosing" closed
+- [[He Knew He Was Right]] — Menand on the Goldwater-to-Reagan personality bridge

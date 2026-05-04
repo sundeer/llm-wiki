@@ -2,8 +2,8 @@
 title: Gladden Pappin
 type: thinker
 tags: []
-sources: [Raw/Furious Minds.pdf]
-updated: 2026-04-26
+sources: ["Raw/Furious Minds.pdf", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md"]
+updated: 2026-05-04
 ---
 
 # Gladden Pappin
@@ -56,6 +56,20 @@ Shortly after declaring the US populist realignment a failure, Pappin **took a j
 
 ---
 
+## The Corporatism Project
+
+Per [[Iberian Vistas]] (Zúquete & Hawley, 2025): Pappin's "Corporatism for the Twenty-First Century" (2020) is the wiki's central single document for the contemporary postliberal corporatist program. The position:
+
+- Out-of-control free-market capitalism and globalism have failed the common good
+- The Right "must become more corporatist in its approach to directing business activity in the national interest, and more Integralist in its view of the link between government and the common good"
+- Pappin advocates "a state-led program to establish the corporate bodies of society and bring them to negotiations" — interest representation by sector, mediated by the state, in pursuit of substantive consensus rather than electoral competition
+
+The wiki's structural reading: this is *Estado Novo* corporatism (Salazar's Portugal, 1933–1974) in 21st-century vocabulary. The political-form Pappin advocates has its closest historical analogue in the institutional architecture [[António Salazar|Salazar]] built. The Hungarian-Institute appointment is consistent: contemporary Hungary under Orbán retains corporatist-administrative-state features Pappin views favorably.
+
+The wiki notes — following Hawley's caution in [[Iberian Vistas]] and *The Moderate Majority* (2024) — that the *constituency* for Catholic-corporatist transformation in the U.S. is shrinking demographically. Pappin's project is intellectually serious and operationally well-resourced (the Hungarian Institute, *American Affairs*, *Postliberal Order*) but the political base required to enact 21st-century U.S. corporatism is not currently in sight.
+
+---
+
 ## Cross-References
 
 - [[Journal of American Greatness]] — wrote as "Manlius Capitolinus"
@@ -69,3 +83,7 @@ Shortly after declaring the US populist realignment a failure, Pappin **took a j
 - [[Viktor Orbán]] — co-authored Budapest dispatch praising him; eventually took job at Orbán's think tank
 - [[Patrick Deneen]] — co-authored Budapest dispatch
 - [[Postliberal Order]] — Substack where Pappin publishes
+- [[Iberian Vistas]] — documents the corporatism program
+- [[António Salazar]] — *Estado Novo* corporatist analogue
+- [[Helen Andrews]] — *First Things* corporatism essay
+- [[Christopher Roach]] — "The Salazar Option"

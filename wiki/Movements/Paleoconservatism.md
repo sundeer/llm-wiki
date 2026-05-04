@@ -2,8 +2,8 @@
 title: Paleoconservatism
 type: movement
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/Conservatives or Counterrevolutionaries?.md]
-updated: 2026-04-26
+sources: ["Raw/Furious Minds.pdf", "Clippings/Conservatives or Counterrevolutionaries?.md", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md"]
+updated: 2026-05-04
 ---
 
 # Paleoconservatism
@@ -56,6 +56,12 @@ Buchanan's 1992 "culture war" speech was the explicit announcement of this concl
 
 ---
 
+## The Iberian Through-Line
+
+Per [[Iberian Vistas]] (Zúquete & Hawley, 2025): paleoconservatism inherits the postwar Catholic *NR* circle's Iberian-authoritarian admiration as one of its core continuities. [[Pat Buchanan]] was, in his youth, "a great admirer of Franco" (Getlin 1992). [[Sam Francis]]'s political-cultural nationalism is structurally a vernacular American version of the Catholic-civilizational politics [[L. Brent Bozell Jr.|Bozell]]'s [[Triumph]] argued for in the 1960s–70s. The wiki's structural reading: contemporary postliberal Iberian admiration ([[Adrian Vermeule|Vermeule]], [[Gladden Pappin|Pappin]], [[Charles Haywood]], [[Josh Abbotoy]]) is the *resurfacing* of an admiration that ran continuously through paleoconservatism between the *NR*-Catholic-circle's mid-century enthusiasm and the contemporary postliberal revival. The political-form imagination — Catholic-aligned, anti-decolonial, anti-democratic-egalitarian, hierarchically organic — is the through-line.
+
+---
+
 ## Cross-References
 
 - [[Fusionism]] — the establishment that paleoconservatism rebelled against
@@ -69,3 +75,10 @@ Buchanan's 1992 "culture war" speech was the explicit announcement of this concl
 - [[Michael Anton]] — shifted toward paleo positions in JAG writings
 - [[The Flight 93 Election]] — anticipated by Gottfried's 2008 call for "genuine oppositional force"
 - [[Hard Right]] — Paul Gottfried's trajectory (alt-right) shows the paleocon-Hard Right overlap
+- [[Iberian Vistas]] — Iberian through-line
+- [[Triumph]] — earlier American attempt
+- [[Francisco Franco]]
+- [[António Salazar]]
+- [[Pat Buchanan]] — Franco admirer in youth
+- [[Erik von Kuehnelt-Leddihn]]
+- [[Thomas Molnar]] — *The Counter-Revolution* (1969)

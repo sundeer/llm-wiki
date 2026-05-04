@@ -2,8 +2,8 @@
 title: Catholic Integralism
 type: concept
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/Integration from Within.md]
-updated: 2026-04-25
+sources: ["Raw/Furious Minds.pdf", "Clippings/Integration from Within.md", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md"]
+updated: 2026-05-04
 ---
 
 # Catholic Integralism
@@ -91,12 +91,32 @@ Integralism goes further by grounding these claims in Catholic theology and natu
 
 ---
 
+## The Iberian Reference (per *Iberian Vistas*)
+
+Per [[Iberian Vistas]] (Zúquete & Hawley, 2025): the contemporary Anglophone neo-integralist project has retrieved [[Francisco Franco|Franco]] and [[António Salazar|Salazar]] as historical reference points for what an integralist political form could look like. The retrieval is selective:
+
+- **The corporatist body** ([[Gladden Pappin|Pappin]], "Corporatism for the Twenty-First Century") draws explicitly on Salazar's *Estado Novo*.
+- **The administrative-state body** ([[Adrian Vermeule|Vermeule]], *The Josias*) cites Salazar's Portugal as bureaucracy-flourishing-in-illiberal-regime example.
+- **The crusading body** (Hard-Right adjacent — [[Charles Haywood]], [[Josh Abbotoy]], [[Joseph Pearce]]) revives Franco's Spain as Catholic civilizational defense.
+- **The theological purist body** ([[Edmund Waldstein|Waldstein]] himself) is critical of Salazar admiration on doctrinal grounds — that the *Estado Novo* preserved the *form* of Catholic Social Teaching while serving the state and market rather than letting "the Kingdom break in."
+
+The wiki's structural reading: contemporary American neo-integralism is *not* uniform on Iberia. The political-strategic faction (Pappin, Vermeule, the Hard-Right adjacent) has retrieved the regime-form analogues; the theological-purist faction has resisted. This split corresponds to the wider tension in postliberalism between *political-form* and *substantive-theological* priority — see [[Postliberalism]].
+
+The earlier American attempt — [[L. Brent Bozell Jr.|Bozell]]'s *[[Triumph]]* (1966–1976) — was both: substantively integralist *and* Iberian-admiring. It failed institutionally. The contemporary version is split into a more institutionally viable political-strategic wing and a more theologically pure but politically marginal wing.
+
+---
+
 ## Cross-References
 
 - [[Adrian Vermeule]] — principal theorist; [[Integration from Within]]
 - [[Patrick Deneen]] — diagnostic half; *Why Liberalism Failed*
 - [[Gladden Pappin]] — co-founder of [[American Affairs]]; integralist political philosopher
+- [[Edmund Waldstein]] — Cistercian monk; founding theologian of contemporary integralism
 - [[Postliberalism]] — the broader movement; integralism is its most extreme wing
 - [[Common Good Constitutionalism]] — Vermeule's legal application of integralism
 - [[Integration from Within]] — the foundational essay
 - [[American Affairs]] — key publication venue
+- [[Triumph]] — the failed 1966–76 American precursor
+- [[Iberian Vistas]] — academic source on the Iberian retrieval
+- [[Francisco Franco]]
+- [[António Salazar]]

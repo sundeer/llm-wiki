@@ -2,8 +2,8 @@
 title: Barry Goldwater
 type: thinker
 tags: []
-sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md"]
-updated: 2026-05-03
+sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md", "Clippings/He Knew He Was Right.md", "Clippings/How Jackie Robinson Helped Defeat a Trump-Like Candidate.md", "Clippings/How the 1964 Republican Convention Sparked a Revolution From the Right.md", "Clippings/The Republican National Convention That Shocked the Country.md"]
+updated: 2026-05-04
 ---
 
 # Barry Goldwater (1909–1998)
@@ -30,14 +30,30 @@ The wiki's structural reading of the book is shaped by Bozell's authorship: the 
 
 ## The 1964 Campaign
 
-Goldwater won the Republican nomination on a platform that "might have been drafted by Frank Meyer" (Edwards). Key elements:
+For the convention itself see [[1964 Republican National Convention]] (event page). Goldwater won the Republican nomination on a platform that "might have been drafted by Frank Meyer" (Edwards). Key elements:
 
 - **The "ordered liberty" passage** of his July 1964 acceptance speech — drafted by [[Harry V. Jaffa]]: "freedom made orderly for the Nation by our constitutional government; freedom under a government limited by the laws of nature and of nature's God; freedom — balanced so that order, lacking liberty, will not become a slave of the prison cell; balanced so that liberty, lacking order, will not become the license of the mob and the jungle." This is the constitutional theology of mainstream Republican fusionism, written by the man who would later become the West Coast Straussian patriarch ([[The Claremonters]], [[Declarationism]]).
 - **"Extremism in the defense of liberty is no vice; moderation in the pursuit of justice is no virtue."** The defining slogan of the campaign and of the 1964 GOP convention. Galvanized conservatives; alarmed moderates and the press; was widely (and intentionally) decontextualized by media coverage that reduced it to "extremism is no vice."
 - **The platform.** Anti-Social-Security, anti-subsidy, pro-privatization, "law and order," "morality in government," "Why not victory?" against communism. The first national articulation of an unembarrassed conservatism after thirty years of New Deal-Era Republican accommodation.
 - **Demographic strategy.** Goldwater explicitly listed "the lazy, dole-happy people who want to feed on the fruits of somebody else's labor" as voters whose support he did not want. The campaign was the prototype for later Republican coalition strategies that traded racially encoded resentment for working-class white support.
 - **The result.** LBJ won 61% of the vote, 486 electoral votes, 44 states. Goldwater won six states: the Deep South (Alabama, Georgia, Mississippi, Louisiana, South Carolina) plus Arizona. James Reston: "Barry Goldwater not only lost the presidential election yesterday but the conservative cause as well."
-- **The actual long-term effect.** The Deep South sweep marked the beginning of the realignment that would bring the South into the Republican Party for two generations. Reagan, brought to national attention by his 27 October 1964 televised speech for Goldwater ("A Time for Choosing"), inherited the apparatus.
+- **The actual long-term effect.** The Deep South sweep marked the beginning of the realignment that would bring the South into the Republican Party for two generations. Reagan, brought to national attention by his 27 October 1964 televised speech for Goldwater ("A Time for Choosing" — see [[Ronald Reagan]]), inherited the apparatus. [[Kevin Phillips]]'s *The Emerging Republican Majority* (1969) formalized the Deep-South realignment as a national strategy.
+
+### The Civil Rights Act Vote (June 19, 1964)
+
+Per [[He Knew He Was Right|Menand]]: Goldwater "was, in fact, a lifelong opponent of racial discrimination" — led the fight to desegregate Phoenix public schools as a city councilman; first staff assistant in the Senate was a Black woman; NAACP member. He voted against the Civil Rights Act on constitutional grounds, advised by [[Robert Bork]] (then a Yale Law professor; wrote a 75-page concurrence) and William Rehnquist (then a Phoenix attorney; advised the bill was unconstitutional). Menand: "He was a shaken man afraid he was signing his political death warrant, convinced that the Constitution offered him no other honorable choice." The wiki's structural reading: Goldwater's *personal* anti-segregationism plus his *constitutional* anti-Civil-Rights-Act vote is the prototype of the contemporary movement-conservative bind in which racial-formalist legal arguments produce racial-substantive political effects.
+
+### "Hunt Where the Ducks Are" (1961)
+
+Per Menand: Goldwater told Georgia activists in 1961 that Republicans should stop chasing Black votes and "go hunting where the ducks are." His 1964 slogan — "In Your Heart You Know He's Right" — was, in Menand's reading, "an arrow aimed directly at" white Democrats in revolt against integration. "A clear allusion to a prejudice that dared not speak its name." This is the cleanest single artifact of the early demographic-coalition strategy. The same logic, six decades later, runs through [[Rush Limbaugh|Limbaugh's]] September 7, 2016 broadcast denouncing the GOP-establishment "Hispanics are natural conservatives" pitch — see [[The Shaming of the Never Trumpers]].
+
+### Black Republican Opposition
+
+Per [[How Jackie Robinson Helped Defeat a Trump-Like Candidate|Delmont]]: [[Jackie Robinson]], a Nixon-1960 supporter, broke with the Republican Party over Goldwater. Robinson backed Rockefeller and Scranton in the primaries, then organized Republicans and Independents for Lyndon Johnson. Robinson's post-1964 diagnosis — "If Goldwater has been defeated, but Goldwaterism remains triumphant in GOP councils, America faces a difficult future" — is, six decades early, the wiki's [[Counterrevolution]] thesis. MLK's contemporary statement: Goldwater's nomination is "both unfortunate and disastrous… not himself a racist" but articulating "a philosophy which gives aid and comfort to racists."
+
+### The Black-Republican Cliff
+
+Eisenhower 39% (1956), Nixon 32% (1960), **Goldwater 6% (1964)** — no Republican candidate has reached 15% since. Menand: "Goldwater's longest-lasting political legacy was to drive African-Americans out of the party of Lincoln."
 
 ---
 
@@ -86,3 +102,12 @@ Goldwater served in the Senate again from 1969 to 1987 and grew increasingly het
 - [[Fusionism]] — the doctrine
 - [[The Conservative Consensus]] — Edwards's canonical retrospective
 - [[Counterrevolution]]
+- [[1964 Republican National Convention]] — the convention that nominated him
+- [[Phyllis Schlafly]] — *A Choice Not an Echo*; grassroots organizer
+- [[Robert Bork]] — Civil Rights Act constitutional brief
+- [[Jackie Robinson]] — Black Republican opposition
+- [[Kevin Phillips]] — *Emerging Republican Majority*
+- [[He Knew He Was Right]] — Menand 2001
+- [[How Jackie Robinson Helped Defeat a Trump-Like Candidate]]
+- [[How the 1964 Republican Convention Sparked a Revolution From the Right]]
+- [[The Republican National Convention That Shocked the Country]]

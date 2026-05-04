@@ -2,8 +2,8 @@
 title: Postliberalism
 type: movement
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/Integration from Within.md]
-updated: 2026-04-25
+sources: ["Raw/Furious Minds.pdf", "Clippings/Integration from Within.md", "Clippings/Iberian Vistas Franco, Salazar, and American Conservatives - José Pedro Zúquete, George Hawley, 2025.md"]
+updated: 2026-05-04
 ---
 
 # Postliberalism
@@ -60,6 +60,18 @@ JD Vance is the political face of Postliberalism. His trajectory — from memoir
 
 ---
 
+## The Iberian Regime-Form Reference
+
+Per [[Iberian Vistas]] (Zúquete & Hawley, 2025): contemporary postliberalism has a *previously-untraced* through-line to the postwar conservative movement's Catholic admiration of [[Francisco Franco|Franco]]'s Spain and [[António Salazar|Salazar]]'s *Estado Novo*. The retrieval is the wiki's clearest concrete answer to the question "*what does the postliberal regime look like, in concrete institutional terms?*":
+
+- **Salazar's Portugal** = corporatist representation + administrative-state primacy + Catholic concordat → admired today by [[Adrian Vermeule|Vermeule]] (administrative-state-bureaucracy thread) and [[Gladden Pappin|Pappin]] (corporatist-representation thread)
+- **Franco's Spain** = "Throne and Altar" military-Catholic strongman → admired today by [[Charles Haywood]] ("Foundationalism"), [[Josh Abbotoy]] ("Is a Protestant Franco inevitable?", *First Things* 2023), [[Joseph Pearce]], [[Michael Knowles]]
+- **The earlier American attempt** = [[L. Brent Bozell Jr.|Bozell]]'s [[Triumph]] magazine (1966–1976), which both lived in Franco's Spain (with [[Willmoore Kendall]]) and openly advocated the Iberian model. *Triumph* failed institutionally; the contemporary version is split between politically viable but theologically less pure ([[Postliberal Order]], [[American Affairs]]) and theologically pure but politically marginal ([[Edmund Waldstein]]'s *Josias* circle).
+
+The wiki's structural reading: postliberalism's anti-liberal positive program has its closest historical analogues in mid-20th-century Iberian Catholic authoritarianism. The wiki does *not* claim contemporary postliberals advocate Franco's specific *means* (mass executions, censorship, PIDE). It does claim that the *regime form* — concentrated executive authority pursuing substantive moral ends in alliance with the Catholic Church or Catholic political vocabulary — is what gives the movement its silhouette. The relevant brake (Hawley 2024): the *constituency* for Catholic-authoritarian transformation in the U.S. is shrinking demographically.
+
+---
+
 ## Tensions Within Postliberalism
 
 - **Deneen vs. Vermeule on strategy:** Deneen initially favored localism and community-building; Vermeule argued for seizing the state. By *Regime Change* (2023), Deneen had moved toward Vermeule's position.
@@ -81,3 +93,9 @@ JD Vance is the political face of Postliberalism. His trajectory — from memoir
 - [[The Claremonters]] — the other main New Right camp
 - [[National Conservatism]] — the other main New Right camp
 - [[JD Vance]] — the political face of postliberalism
+- [[Iberian Vistas]] — Zúquete & Hawley on the Iberian regime-form retrieval
+- [[Francisco Franco]]
+- [[António Salazar]]
+- [[Triumph]] — failed American precursor
+- [[Edmund Waldstein]] — theological purist
+- [[Charles Haywood]] — Hard-Right adjacent
