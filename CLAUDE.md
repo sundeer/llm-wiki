@@ -17,6 +17,9 @@ llm-wiki/
 ├── log.md             ← append-only operation log (LLM-maintained)
 ├── Clippings/         ← raw sources: web clippings (immutable)
 ├── Raw/               ← raw sources: PDFs, transcripts, other files (immutable)
+├── QA/                ← questions and discussions against the wiki (LLM-maintained)
+│   ├── index.md       ← browsable table of all Q&A entries
+│   └── <Topic>.md     ← one file per question, topic-named
 └── Wiki/              ← LLM-generated wiki pages
     ├── Overview.md
     ├── Inbox/         ← uncategorized stubs (Obsidian default landing zone)
@@ -28,7 +31,13 @@ llm-wiki/
     └── Institutions/
 ```
 
-**Raw sources are immutable.** The LLM reads them but never modifies them. All generated content lives in `Wiki/`.
+**Raw sources are immutable.** The LLM reads them but never modifies them. All generated content lives in `Wiki/` or `QA/`.
+
+---
+
+## QA Directory
+
+`QA/` holds questions and answers against the wiki. See `.claude/skills/query/SKILL.md` for the filing format and procedure.
 
 ---
 

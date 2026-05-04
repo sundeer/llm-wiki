@@ -7,4 +7,17 @@ When the user asks a question:
 1. Read `index.md` to identify relevant pages
 2. Read the relevant pages
 3. Synthesize an answer with `[[wikilink]]` citations
-4. Offer to file the answer as a new wiki page if it represents lasting synthesis
+4. File the answer in `QA/` as a new entry:
+   - Choose a short, descriptive topic name (e.g., `Liberal Neutrality Critique.md`)
+   - Use this frontmatter:
+     ```yaml
+     ---
+     title: <topic name>
+     type: qa
+     asked: YYYY-MM-DD
+     wiki_sources:
+       - Wiki/path/to/page.md
+     ---
+     ```
+   - Structure the file as: question, then the full answer with `[[wikilink]]` citations, then a "Wiki Pages Consulted" list at the bottom
+   - Add a row to `QA/index.md` with the entry title, date, and topic tags

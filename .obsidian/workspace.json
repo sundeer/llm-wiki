@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Texts/He Knew He Was Right.md",
+                "file": "wiki/Concepts/Catholic Integralism.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "He Knew He Was Right"
+              "title": "Catholic Integralism"
             }
           }
         ]
@@ -195,8 +195,16 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "e955b0857c38a738",
+  "active": "72951b76ac001d25",
   "lastOpenFiles": [
+    "QA/Liberal Neutrality Critique.md",
+    "QA/index.md",
+    "QA",
+    "CLAUDE.md",
+    "index.md",
+    "log.md",
+    "wiki/Overview.md",
+    "wiki/Texts/He Knew He Was Right.md",
     "wiki/Thinkers/Pat Buchanan.md.tmp.226.1777864115555",
     "wiki/Institutions/National Review.md",
     "wiki/Institutions/Triumph.md",
@@ -217,12 +225,6 @@
     "wiki/Thinkers/Robert Bork.md",
     "wiki/Thinkers/Charles Haywood.md",
     "wiki/Thinkers/Erik von Kuehnelt-Leddihn.md",
-    "wiki/Thinkers/Edmund Waldstein.md",
-    "wiki/Thinkers/António Salazar.md",
-    "wiki/Thinkers/Francisco Franco.md",
-    "wiki/Thinkers/Phyllis Schlafly.md",
-    "wiki/Thinkers/Willmoore Kendall.md",
-    "wiki/Thinkers/James Burnham.md",
     "index.md.tmp.226.1777820906252",
     "raw/Republic -- Plato.pdf",
     "wiki/Thinkers/Laura K. Field.md.tmp.227.1777236428837",
@@ -230,8 +232,6 @@
     "wiki/Inbox",
     "raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf",
     "raw/Furious Minds.pdf",
-    "wiki/Institutions",
-    "wiki/Events",
-    "wiki/Texts"
+    "wiki/Institutions"
   ]
 }
