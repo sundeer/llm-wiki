@@ -2,8 +2,8 @@
 title: Declarationism
 type: concept
 tags: []
-sources: [Raw/Furious Minds.pdf, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, "Clippings/‘America Is a Republic, Not a Democracy’ Is a Dangerous—And Wrong—Argument.md"]
-updated: 2026-05-03
+sources: [Raw/Furious Minds.pdf, Raw/Beyond Originalism_ Conservative Declarationism and Constitutiona.pdf, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, "Clippings/’America Is a Republic, Not a Democracy’ Is a Dangerous—And Wrong—Argument.md", "Clippings/The American Founding as the Best Regime.md"]
+updated: 2026-05-07
 ---
 
 # Declarationism
@@ -67,6 +67,14 @@ Jaffa's reply: Bradford's constitutionalism had no "worship of the law whatsoeve
 Kersch's historical verdict: Bradford was more historically accurate (the founders generally did *not* intend the Declaration as a universal equality mandate), but Jaffa was more politically viable. After the Civil Rights revolution, explicit neo-Confederatism was institutionally untenable. Declarationism won because it was the constitutionalism that could survive the 1960s.
 
 ---
+
+## Declarationism vs. Originalism: Jaffa's Attack on Rehnquist, Bork, Scalia
+
+In [[The American Founding as the Best Regime]] (2002), Jaffa explicitly attacked conservative originalists — naming William Rehnquist, Robert Bork, and Antonin Scalia — as self-contradictory. His argument: "To appeal to the conception of 'original intent' in interpreting the Constitution while denying the ideas of natural justice which formed the 'why' of the Constitution, is to go to the uttermost limit of self-contradiction." The founders' "original intent" was natural justice. You cannot read the intent without reading the philosophy that generated it.
+
+This makes Declarationism and Federalist Society–style originalism fundamentally incompatible positions — not merely different emphases. The Federalist Society's dominant approach grants authority to text and historical intent, while bracketing questions of natural law. Jaffa's approach insists that text without natural law is arbitrary will dressed up as legal procedure — which is what Rehnquist claimed to oppose when he rejected "mere expressions of will" as constitutional grounds. (Jaffa would say that stripping natural justice from constitutional interpretation is itself mere will, just historical rather than living.)
+
+This explains the long practical tension between the Claremont Institute and the Federalist Society, who shared personnel and donors but operated from genuinely different first principles.
 
 ## Contrast with Progressive and Originalist Interpretations
 

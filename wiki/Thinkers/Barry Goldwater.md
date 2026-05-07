@@ -2,8 +2,8 @@
 title: Barry Goldwater
 type: thinker
 tags: []
-sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md", "Clippings/He Knew He Was Right.md", "Clippings/How Jackie Robinson Helped Defeat a Trump-Like Candidate.md", "Clippings/How the 1964 Republican Convention Sparked a Revolution From the Right.md", "Clippings/The Republican National Convention That Shocked the Country.md"]
-updated: 2026-05-04
+sources: ["Clippings/Debunking a Longstanding Myth About William F. Buckley.md", "Clippings/Long before QAnon, Ronald Reagan and the GOP purged John Birch extremists from the party.md", "Clippings/The Conservative Consensus Frank Meyer, Barry Goldwater, and the Politics of Fusionism.md", "Clippings/He Knew He Was Right.md", "Clippings/How Jackie Robinson Helped Defeat a Trump-Like Candidate.md", "Clippings/How the 1964 Republican Convention Sparked a Revolution From the Right.md", "Clippings/The Republican National Convention That Shocked the Country.md", "Clippings/My Father and the Birth of Modern Conservatism.md"]
+updated: 2026-05-07
 ---
 
 # Barry Goldwater (1909–1998)
@@ -32,8 +32,8 @@ The wiki's structural reading of the book is shaped by Bozell's authorship: the 
 
 For the convention itself see [[1964 Republican National Convention]] (event page). Goldwater won the Republican nomination on a platform that "might have been drafted by Frank Meyer" (Edwards). Key elements:
 
-- **The "ordered liberty" passage** of his July 1964 acceptance speech — drafted by [[Harry V. Jaffa]]: "freedom made orderly for the Nation by our constitutional government; freedom under a government limited by the laws of nature and of nature's God; freedom — balanced so that order, lacking liberty, will not become a slave of the prison cell; balanced so that liberty, lacking order, will not become the license of the mob and the jungle." This is the constitutional theology of mainstream Republican fusionism, written by the man who would later become the West Coast Straussian patriarch ([[The Claremonters]], [[Declarationism]]).
-- **"Extremism in the defense of liberty is no vice; moderation in the pursuit of justice is no virtue."** The defining slogan of the campaign and of the 1964 GOP convention. Galvanized conservatives; alarmed moderates and the press; was widely (and intentionally) decontextualized by media coverage that reduced it to "extremism is no vice."
+- **The "ordered liberty" passage** of his July 1964 acceptance speech — written by [[Harry V. Jaffa]] (who wrote the *entire* speech in a single overnight session; see [[My Father and the Birth of Modern Conservatism]]): "freedom made orderly for the Nation by our constitutional government; freedom under a government limited by the laws of nature and of nature's God; freedom — balanced so that order, lacking liberty, will not become a slave of the prison cell; balanced so that liberty, lacking order, will not become the license of the mob and the jungle." This is the constitutional theology of mainstream Republican fusionism, written by the man who would later become the West Coast Straussian patriarch ([[The Claremonters]], [[Declarationism]]).
+- **"Extremism in the defense of liberty is no vice; moderation in the pursuit of justice is no virtue."** The defining slogan of the campaign and of the 1964 GOP convention. Galvanized conservatives; alarmed moderates and the press; was widely (and intentionally) decontextualized by media coverage that reduced it to "extremism is no vice." What was unknown for decades: Jaffa drew these lines directly from Martin Luther King Jr.'s *Letter from a Birmingham Jail* — deliberately placing Goldwater on King's rhetorical shoulders at the moment when Goldwater had voted against the Civil Rights Act. Goldwater "never would have said [the words] if Goldwater had known what he was saying" (Philip Jaffa). Jaffa kept the King source secret for over fifty years.
 - **The platform.** Anti-Social-Security, anti-subsidy, pro-privatization, "law and order," "morality in government," "Why not victory?" against communism. The first national articulation of an unembarrassed conservatism after thirty years of New Deal-Era Republican accommodation.
 - **Demographic strategy.** Goldwater explicitly listed "the lazy, dole-happy people who want to feed on the fruits of somebody else's labor" as voters whose support he did not want. The campaign was the prototype for later Republican coalition strategies that traded racially encoded resentment for working-class white support.
 - **The result.** LBJ won 61% of the vote, 486 electoral votes, 44 states. Goldwater won six states: the Deep South (Alabama, Georgia, Mississippi, Louisiana, South Carolina) plus Arizona. James Reston: "Barry Goldwater not only lost the presidential election yesterday but the conservative cause as well."
@@ -95,7 +95,8 @@ Goldwater served in the Senate again from 1969 to 1987 and grew increasingly het
 - [[Frank Meyer]] — the synthesis Goldwater carried into politics
 - [[William F. Buckley Jr.]] — strategic ally; Palm Beach 1962
 - [[Russell Kirk]] — Palm Beach 1962; pushed for stronger anti-Birch line
-- [[Harry V. Jaffa]] — drafted the 1964 acceptance speech's "ordered liberty" passage
+- [[Harry V. Jaffa]] — wrote the entire 1964 acceptance speech, including the MLK-derived "extremism" line
+- [[My Father and the Birth of Modern Conservatism]] — Philip Jaffa's memoir; reveals the full scope of Harry's authorship and the King source
 - [[Ronald Reagan]] — successor; "A Time for Choosing" launched his career
 - [[John Birch Society]] — the case study
 - [[Robert Welch]]

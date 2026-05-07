@@ -138,6 +138,9 @@
 ## Texts
 
 - [[1776 Commission Report]] — Trump admin Jan 2021; Arnn/Swain co-chairs; no historians; Calhoun comparison; Biden dissolved day one
+- [[The American Founding as the Best Regime]] — Harry Jaffa (2002); fullest primary-source statement of the "best regime" thesis; attacks Rehnquist/Bork/Scalia as self-contradictory; moralized liberty excludes LGBTQ+
+- [[My Father and the Birth of Modern Conservatism]] — Philip Jaffa (Bulwark, 2021); reveals MLK source of Goldwater's "extremism" line; confirms Harry would not have supported Trump
+- [[The Claremont Institute Harry Jaffa and the Temptation of Theory]] — Thomas Merrill (Bulwark, 2021); review of Ellmers's *Soul of Politics*; "lagging indicator" thesis; "temptation of theory" diagnosis; Jaffa-Strauss rupture on Locke
 - [[Beyond Originalism]] — Ken Kersch (2011, *Maryland Law Review*); academic genealogy of Declarationism; Bradford-Jaffa debate; two functions of conservative Declarationism
 - [[Conservatives or Counterrevolutionaries?]] — Joshua Tait (2024, Substack); conservative vs. counterrevolutionary distinction; Kirk, Oakeshott, Bradford, Francis; Trump as ideological cipher
 - [[Furious Minds]] — Laura K. Field (2025, Princeton UP); anchor text for this wiki

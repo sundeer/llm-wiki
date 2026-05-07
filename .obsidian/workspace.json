@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9beacd22a81cb0ca",
+        "id": "b409d08d457af779",
         "type": "tabs",
         "children": [
           {
-            "id": "e955b0857c38a738",
+            "id": "44261f687538c251",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Concepts/Catholic Integralism.md",
-                "mode": "preview",
+                "file": "Clippings/My Father and the Birth of Modern Conservatism.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Catholic Integralism"
+              "title": "My Father and the Birth of Modern Conservatism"
             }
           }
         ]
@@ -195,10 +195,17 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "72951b76ac001d25",
+  "active": "44261f687538c251",
   "lastOpenFiles": [
+    "wiki/Texts/The Claremont Institute Harry Jaffa and the Temptation of Theory.md",
+    "wiki/Texts/The American Founding as the Best Regime.md",
+    "wiki/Texts/My Father and the Birth of Modern Conservatism.md",
+    "Clippings/The American Founding as the Best Regime.md",
+    "Clippings/My Father and the Birth of Modern Conservatism.md",
+    "Clippings/The Claremont Institute, Harry Jaffa, and the Temptation of Theory.md",
     "QA/Liberal Neutrality Critique.md",
     "QA/index.md",
+    "wiki/Concepts/Catholic Integralism.md",
     "QA",
     "CLAUDE.md",
     "index.md",
@@ -218,13 +225,6 @@
     "wiki/Thinkers/Kevin Phillips.md",
     "wiki/Thinkers/Newt Gingrich.md",
     "wiki/Thinkers/Angelo Codevilla.md",
-    "wiki/Thinkers/Jackie Robinson.md",
-    "wiki/Thinkers/Charles J. Holden.md",
-    "wiki/Thinkers/Matthew Delmont.md",
-    "wiki/Thinkers/Louis Menand.md",
-    "wiki/Thinkers/Robert Bork.md",
-    "wiki/Thinkers/Charles Haywood.md",
-    "wiki/Thinkers/Erik von Kuehnelt-Leddihn.md",
     "index.md.tmp.226.1777820906252",
     "raw/Republic -- Plato.pdf",
     "wiki/Thinkers/Laura K. Field.md.tmp.227.1777236428837",

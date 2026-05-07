@@ -2,8 +2,8 @@
 title: West Coast Straussianism
 type: concept
 tags: []
-sources: [Raw/Furious Minds.pdf]
-updated: 2026-04-25
+sources: [Raw/Furious Minds.pdf, "Clippings/The American Founding as the Best Regime.md", "Clippings/The Claremont Institute, Harry Jaffa, and the Temptation of Theory.md"]
+updated: 2026-05-07
 ---
 
 # West Coast Straussianism
@@ -48,6 +48,14 @@ The name refers less to geography than to intellectual lineage: Jaffa taught at 
 
 ---
 
+## The "Best Regime" Thesis and the Rupture with Strauss
+
+Jaffa's mature position — stated fully in [[The American Founding as the Best Regime]] (2002) — goes beyond what the "West Coast" label captures. He argued that the American Founding is not merely the best *available* regime but the philosophically optimal solution to a problem that had defeated Western civilization for fifteen hundred years: how to ground political authority without forcing a political choice between reason (Athens) and revelation (Jerusalem). America's solution — the First Amendment keeps religious questions outside politics; the Declaration grounds authority in natural rights shared by all — is, Jaffa claims, the first regime to achieve this. It is therefore "the best regime."
+
+This claim is structurally similar to Hegel's "end of history" and Fukuyama's liberal-democracy thesis, as Thomas Merrill (see [[The Claremont Institute Harry Jaffa and the Temptation of Theory]]) points out. It differs sharply from Strauss's own view. Strauss, following Aristotle, held that all regimes have internal flaws that will eventually doom them. The "ancient" view is that no political arrangement is final; every regime carries the seeds of its own corruption. Jaffa's mature "best regime" thesis abandons this Straussian pessimism in favor of a near-Hegelian confidence that history has reached its political endpoint.
+
+**The Strauss-Locke problem**: Strauss's reading of Locke was esoteric — Locke's hidden views were godless and anti-natural law. If Strauss was right, the American Founding (which drew heavily on Locke) is philosophically much more fragile than Jaffa claimed. Jaffa's response was to argue that the founders understood only Locke's *exoteric* (public, religious, natural-law) teaching, not his hidden atheism. But as Merrill notes, this sidesteps the central question of whether Strauss was right about Locke in the first place. The implication: West Coast Straussianism's foundational claim about America diverges not just from Strauss's tone but from his substantive interpretation of the modern philosophical tradition on which the Founding drew.
+
 ## The Flight 93 Turn
 
 [[Michael Anton]]'s [[The Flight 93 Election]] represents a radicalization of the West Coast Straussian tradition. Anton uses the founding framework — America as proposition, natural right as the standard — but turns it toward MAGA ends: Trump represents the last defense of the founding against progressive destruction.
@@ -66,3 +74,5 @@ This is, as [[Furious Minds|Field]] notes, a departure from Jaffa's own Lincoln-
 - [[Declarationism]] — the constitutional doctrine that follows from West Coast Straussianism
 - [[Allan Bloom]] — East Coast Straussian; contrasting figure
 - [[The Flight 93 Election]] — West Coast Straussianism applied to MAGA
+- [[The American Founding as the Best Regime]] — Jaffa's 2002 essay; fullest statement of the mature position
+- [[The Claremont Institute Harry Jaffa and the Temptation of Theory]] — Merrill's identification of the Jaffa-Strauss rupture

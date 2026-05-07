@@ -2,8 +2,8 @@
 title: Claremont Institute
 type: institution
 tags: []
-sources: [Raw/Furious Minds.pdf, Clippings/The Fight is Now.md, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md]
-updated: 2026-04-26
+sources: [Raw/Furious Minds.pdf, Clippings/The Fight is Now.md, Clippings/How the Claremont Institute Became a Nerve Center of the American Right.md, "Clippings/The Claremont Institute, Harry Jaffa, and the Temptation of Theory.md"]
+updated: 2026-05-07
 ---
 
 # Claremont Institute
@@ -81,6 +81,16 @@ While formally separate, Hillsdale College in Michigan operates as a closely aff
 
 ---
 
+## The "Lagging Indicator" Thesis
+
+Thomas Merrill ([[The Claremont Institute Harry Jaffa and the Temptation of Theory]], 2021) offers the most analytically precise external account of why the Institute was so susceptible to Trumpism — and contests the simpler narrative that Claremont *caused* it.
+
+Merrill's argument: the Claremont school is "more a reflection of the mood of today's conservatism than a cause of it — a lagging indicator rather than a leading one." The movement carried the intellectuals along; the intellectuals then provided post-hoc rationalization. The mechanism: intellectuals with grand theories develop a Manichaean framework that divides the world into civilization and its destroyers. Once in that frame, they cannot see what is in front of them clearly. They mistake an incompetent, incoherent political movement for a unified, malevolent enemy; they persuade themselves everything rides on a single election; they find it hard to believe their candidate lost because that would mean the "silent majority" doesn't actually want to be saved by them.
+
+The exception Merrill carves out: [[John Eastman]], whose January 6 memos were an active intellectual contribution to the coup attempt — not merely reflective of a popular mood but causative.
+
+**Philip Jaffa** — Harry Jaffa's son — told Merrill directly that his father would not have supported Trump. This is corroborated by Philip's own 2021 memoir ([[My Father and the Birth of Modern Conservatism]]). The institute founded in Jaffa's name became Trump's most prominent intellectual defender in ways that directly contradict the egalitarian, Lincoln-centered constitutionalism Jaffa himself preached.
+
 ## Post-January 6 Split
 
 The institute's response to Eastman's Coup Memos crystallized internal divisions:
@@ -106,3 +116,5 @@ The institute's response to Eastman's Coup Memos crystallized internal divisions
 - [[January 6 2021]] — the downstream consequence of the Institute's 2020 actions
 - [[Curtis Yarvin]] — incorporated into American Mind contributor ecosystem under Williams
 - [[How the Claremont Institute Became a Nerve Center]] — primary journalistic source
+- [[The Claremont Institute Harry Jaffa and the Temptation of Theory]] — Merrill's external diagnosis of Claremont's susceptibility to Trumpism
+- [[My Father and the Birth of Modern Conservatism]] — Philip Jaffa's memoir; confirms Harry would not have supported Trump
