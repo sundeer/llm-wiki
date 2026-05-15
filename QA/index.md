@@ -7,3 +7,4 @@
 | Entry | Asked | Topics |
 |-------|-------|--------|
 | [[QA/Liberal Neutrality Critique\|Liberal Neutrality Critique]] | 2026-05-04 | Liberalism, Postliberalism, Deneen, Vermeule |
+| [[QA/Reading Path from Plato\|Reading Path from Plato]] | 2026-05-15 | Plato, Strauss, Bloom, Deneen, Reading Guide |
